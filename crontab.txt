@@ -1,0 +1,7 @@
+(isi file /tmp/crontab.DYmmuZ/crontab) 
+
+0 11,18 * * 1-5 ~/TOS-B/emas.sh
+0 8-18 * * 1-5 ~/TOS-B/bcaUSD.sh
+0 8-18 * * 1-5 ~/TOS-B/bcaSGD.sh
+0 8-18 * * 1-5 ~/TOS-B/mandiriUSD.sh
+0 8-18 * * 1-5 ~/TOS-B/mandiriSGD.sh 
