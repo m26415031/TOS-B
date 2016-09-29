@@ -1,0 +1,6 @@
+Daenerys,Targaryen
+Jon,Snow
+Sansa,Stark
+Theon,Greyjoy
+Myrcella,Baratheon
+Jaime,Lannister
