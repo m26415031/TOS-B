@@ -3,16 +3,17 @@
 chomp(@input=<STDIN>);
 @reversed=reverse(@input);
 @sorted=sort(@input);
-print "You entered:\n";
+print "You entered: ";
 foreach $a(@input){
-   print $a " ";
+   print "$a ";
 }
-print "Reversed:\n";
+print "\nReversed: ";
 foreach $a(@reversed){
-   print $a " ";
+   print "$a ";
 }
-print "Sorted:\n";
+print "\nSorted: ";
 foreach $a(@sorted){
-   print $a " ";
+   print "$a ";
 }
+print "\n";
 
