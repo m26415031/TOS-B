@@ -1,24 +1,26 @@
 #!/usr/bin/perl
 
-$counter=0;
+my $counter=0;
 my @names;
 sub greet{
   if($counter==0){
-    print "Hi @_! You are the first one here!";
+    print "Hi $_! You are the first one here!\n";
     $counter+=1;
   }
   else{
-    print "Hi @_! I've seen ";
+    print "Hi $_! I've seen ";
     foreach $i(@names){
-      print $i;
-      print " ";
+      print "$i ";
     }
-  }
-  $names[counter]=@_;
+  $names[$counter]=@_;
+  $counter+=1;
   print "\n";
+  }
 }
 
-greet( "David" );
-greet( "Ziggy" );
-greet( "Aladdin" );
-greet( "Thin White Duke" );
+greet( "Robb" );
+greet( "Jon" );
+greet( "Sansa" );
+greet( "Arya" );
+greet( "Bran" );
+greet( "Rickon" );
