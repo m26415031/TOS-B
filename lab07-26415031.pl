@@ -12,10 +12,11 @@ sub greet{
     foreach $i(@names){
       print "$i ";
     }
+  }
   $names[$counter]=@_;
   $counter+=1;
   print "\n";
-  }
+
 }
 
 greet( "Robb" );
