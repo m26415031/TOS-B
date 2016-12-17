@@ -1,0 +1,2034 @@
+<!doctype html>
+
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/files/css3-mediaqueries.js"></script>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+ 
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tabel Naik Turun Harga Saham Harian</title>
+<meta name="Robots" content="index,follow">
+
+<meta property="og:site_name" content="seputarforex" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, minimum-scale=1.0, user-scalable=yes"> 
+<link rel='stylesheet' type="text/css" href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700' >
+<link rel="stylesheet" type="text/css" href="/aazcss/rev_2015/sf_main.css" >
+<link rel="stylesheet" type="text/css" href="/aazcss/rev_2015/sf_nav.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js" ></script>
+<script type="text/javascript" src="/aazcss/rev_2015/sf_mobile_detect.js" ></script>
+<script type="text/javascript" src="/aazcss/rev_2015/jquery.fitvids.js" ></script>
+<script type="text/javascript" src="/aazcss/ibox/ibox.js"></script>
+<meta property="fb:app_id" content="234692533211735"/>
+<meta name="alexaVerifyID" content="kZVteOcZuMVO7ZBVfTjNFaXbN7A" />
+
+
+</head>
+<body>
+
+<header id="sf_id_header_top">
+
+<script>
+function show_search_text(){
+ $('.td_share').hide();
+ $('.im_search').hide();
+ $('.sf-form-cari').show('slow');
+ }
+</script>
+
+
+<div class="patas">
+<div class="pkanan">
+
+<a href="/advertising/client/go.php?k=gkinvest_A01_slot1&g=https%3A%2F%2Fgoo.gl%2FiyusnC" target="_blank" rel="nofollow">
+<img src="/amon/ads2013/pos_728_90_file/gkinvest-bonus-30-persen.gif" alt="" width="728" height="90" border="0" />
+</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- |5|31|thinkmarket| -->
+
+</div>
+<div class="pkiri">
+<a href="http://www.seputarforex.com"><img src="/image_baru/logo_seputarforex.png" height="40" width="230" class="logo_img"  /></a>
+
+<table class="tb_share" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td>
+<img class="im_search" src="/image_baru/search-grey.png" onclick="show_search_text();" style="cursor:pointer;" width="28" height="28" title="cari di seputarforex"  />
+<form class="sf-form-cari"  action="/pencarian/global.php" style="display:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><input name="q" type="text" style="width:100%;"  required placeholder = 'pencarian' /></td>
+    <td style="background-color:#FF9900;" ><input type="submit"  value="GO"></td>
+  </tr>
+</table>
+<input type="hidden" name="cx" value="partner-pub-9613178620224228:2962175820" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+</form>
+
+</td>
+<td class="td_share"><a href="http://www.facebook.com/seputarforex.fanspage" target="_blank"><img src="/image_baru/fb-grey.png" width="28" height="28" border="0" title="facebook"  /></a></td>
+<td class="td_share"><a href="http://www.twitter.com/seputarforex" target="_blank"><img src="/image_baru/tw-grey.png" width="28" height="28" title="twitter"  /></a></td>
+<td class="td_share"><a href="https://plus.google.com/112637132066077468609" target="_blank"><img src="/image_baru/gplus-grey.png" width="28" height="28" title="google plus"  /></a></td>
+<td class="td_share"><a href="https://www.instagram.com/seputarforex/" target="_blank"><img src="/image_baru/insta-gray.png" width="28" height="28" title="instagram"  /></a></td>
+<td class="td_share"><a href="/newsletter/" target="_blank"><img src="/image_baru/sub-grey.png" width="28" height="28" title="berlangganan newsletter"  /></a></td>
+</tr>
+</table>
+
+</div>
+<div style="clear:both;"></div>
+</div>
+
+
+<div class="pmob">
+<div class="mob300-kiri">
+<a href="http://www.seputarforex.com"><img src="/image_baru/logo_seputarforex.png" width="242" height="50"  /></a>
+
+<form  action="/pencarian/global.php" class="sf-form-cari" >
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><input name="q" type="text" style="width:100%;"  required placeholder = 'pencarian' /></td>
+    <td style="background-color:#FF9900;"><input type="submit"  value="GO"></td>
+  </tr>
+</table>
+<input type="hidden" name="cx" value="partner-pub-9613178620224228:2962175820" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+</form>
+
+<table class="tb_share_mob" style="margin:8px 0px 0px -2px;" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td><a href="http://www.facebook.com/seputarforex.fanspage" target="_blank"><img src="/image_baru/fb-grey.png" width="28" height="28" border="0" title="facebook"  /></a></td>
+<td><a href="http://www.twitter.com/seputarforex" target="_blank"><img src="/image_baru/tw-grey.png" width="28" height="28" title="twitter"  /></a></td>
+<td><a href="https://plus.google.com/112637132066077468609" target="_blank"><img src="/image_baru/gplus-grey.png" width="28" height="28" title="google plus"  /></a></td>
+<td><a href="/newsletter/" target="_blank"><img src="/image_baru/sub-grey.png" width="28" height="28" title="berlangganan newsletter"  /></a></td>
+</tr>
+</table>
+
+
+
+</div>
+
+<div class="mob300-kanan">
+<div class="mob300-30" style="margin-right:2%;" >
+
+<a href="/advertising/client/go.php?k=firewoodfx_slot4&g=http%3A%2F%2Fwww.firewoodfx.com%2Ffix-rate-idr-deposit-and-withdrawal%2F%3Fib%3Dseputar_300_6%26utm_campaign%3Dseputarforex300_6%26utm_source%3Dseputarforex%26utm_medium%3Dbanner" target="_blank" rel="nofollow" >
+<img src="/amon/ads2013/pos_300_250_file/firewood-award-color.jpg"
+ width="300" height="250" alt="" style="border:0; "  />
+</a>
+ 
+</div>
+<div class="mob300-30" >
+<a href="/advertising/client/go.php?k=firewoodfx_slot6&g=http%3A%2F%2Fwww.firewoodfx.com%2F%3Fib%3Dseputarforex300_5%26utm_campaign%3Dseputarforex300_5%26utm_sourceputarforex%26utm_medium%3Dbanner" target="_blank" rel="nofollow" >
+<img src="/amon/ads2013/pos_300_250_file/firewood-award3.jpg"
+ width="300" height="250" alt="" style="border:0; "  />
+</a>
+</div>
+</div>
+
+<div style="clear:both;"></div>
+</div>
+<nav id="sf_menu_utama">
+<ul id="sf_id_nav" >
+<li><a href="http://www.seputarforex.com/" >Home</a></li> 
+<li><a href="http://www.seputarforex.com/belajar/forex/"  id="parent_sf_menu_belajar"  >Belajar</a></li>
+<li><a href="http://www.seputarforex.com/artikel/forex/"  id="parent_sf_menu_artikel"  >Artikel</a></li>
+<li><a href="http://www.seputarforex.com/broker/forex/"  id="parent_sf_menu_broker"  >Broker</a></li>
+<li><a href="http://www.seputarforex.com/analisa/forex/" id="parent_sf_menu_analisa"  >Analisa</a></li>
+<li><a href="http://www.seputarforex.com/berita/"  id="parent_sf_menu_berita"  >Berita</a></li>
+<li><a href="http://www.seputarforex.com/tools/"  id="parent_sf_menu_tools"  >Tools</a></li>
+<li><a href="http://www.seputarforex.com/saham/"  id="parent_sf_menu_saham" >Saham</a></li>
+<li><a href="http://www.seputarforex.com/data/" id="parent_sf_menu_data"  >Data</a></li>
+<li><a href="#" class="sf_nav" id="parent_sf_menu_more" >More </a></li>
+</ul>
+</nav>
+<div id="sf_active_menu" ></div>
+<div id="sf_dinamic_menu" ></div>
+
+
+
+
+
+
+
+
+<nav class="sf_hor_sub_menu" id="sf_menu_saham_def"  >
+<ul>
+  <li><a href="http://www.seputarforex.com/saham/">Info Pasar</a></li>
+  <li><a href="http://www.seputarforex.com/saham/aktif/" >Saham Aktif</a></li>
+  <li><a href="http://www.seputarforex.com/saham/performa_sektor/" >Performa Sektor</a></li>
+  <li><a href="http://www.seputarforex.com/saham/sektor/tabel_naik_turun_harga.php" >Tabel Naik Turun</a></li>
+</ul><ul>
+  <li><a href="http://www.seputarforex.com/artikel/saham/" >Artikel</a></li>
+  <li><a href="http://www.seputarforex.com/analisa/saham/" >Analisa</a></li>
+  <li><a href="http://www.seputarforex.com/berita/saham/" >Berita</a></li>
+  <li><a href="http://www.seputarforex.com/saham/ekonomi/" >Ulasan Ekonomi</a></li>
+</ul><ul>
+  <li><a href="http://www.seputarforex.com/saham/daftar_emiten/" >Daftar Emiten</a></li>
+  <li><a href="http://www.seputarforex.com/saham/monitoring/" >Monitoring Saham</a></li>
+  <li><a href="http://www.seputarforex.com/saham/watchlist/" >Watchlist</a></li>
+</ul>
+<div style="clear:both; "></div>
+</nav>
+
+
+<script type="text/javascript" src="/aazcss/rev_2015/sf_nav.js"></script>
+
+</header>
+
+
+<div id="container" >
+
+
+<article>
+
+<header>
+<h1 id="page_id_title">TABEL NAIK TURUN HARGA SAHAM HARIAN</h1>
+<p id="page_id_time_author"></p>
+</header>
+
+<section id="social_button"></section>
+<style>
+#sf_id_share { display:none; margin:0px 0px 14px 0px; float:left;}
+#sf_id_share_link { color:#0000FF; cursor:pointer; letter-spacing:normal; }
+#sf_id_share_link:hover { text-decoration:underline;  }
+#sf_id_share span {height:30px;width:80px; display:block; float:left; margin-right: 5px;}
+#sf_id_share span.twitter {background-color: #00aced;}
+#sf_id_share span.facebook {background-color: #3c5a98;}
+#sf_id_share span.google {background-color: #c25234;}
+#sf_id_share span.twitter:hover {background-color: #008ABE;}
+#sf_id_share span.facebook:hover {background-color: #30487A;}
+#sf_id_share span.google:hover {background-color: #9B422A;}
+#sf_id_share span:hover { cursor:pointer;}
+.b-share .b-share-btn__wrap a img{height:24px;width:24px;border-radius:3px;}
+.b-share .b-share-btn__wrap a{height:24px;width:24px;}
+.yashare-auto-init .b-share{padding: 1px 2px 1px 4px!important;}
+span #img-t { background-image:url('/amon/social/img/share.png'); background-position: 1px -45px;}
+span #img-f { background-image:url('/amon/social/img/share.png'); background-position: 1px -1px;}
+span #img-g { background-image:url('/amon/social/img/share.png'); background-position:0 -85px;}
+@media screen and (min-width:768px){
+	.is_mobile{display:none !important;}
+	}
+@media screen and (max-width:768px){
+	#sf_id_share span {height:24px;width:24px; border-radius: 3px; display:block; float:left; margin-right: 5px;}
+	span #img-t { background-image:url('/amon/social/img/share_kecil.png'); background-position: 0px -85px;}
+	span #img-f { background-image:url('/amon/social/img/share_kecil.png'); background-position: 0px 0px;}
+	span #img-g { background-image:url('/amon/social/img/share_kecil.png'); background-position: 0px -145px;}
+}
+</style>
+<div id="sf_id_share" >
+<span class="twitter" onClick="javascript:var title = document.getElementsByTagName('title')[0].innerHTML;
+window.open('https://twitter.com/intent/tweet?text='+  title +'&url=http%3A%2F%2Fwww.seputarforex.com%2Fsaham%2Fsektor%2Ftabel_naik_turun_harga.php','twitter','resizable,top=250,left=500,height=350,width=600');"><span id="img-t"></span></span>
+<span class="facebook" onClick="window.open('https://facebook.com/sharer.php?u=http%3A%2F%2Fwww.seputarforex.com%2Fsaham%2Fsektor%2Ftabel_naik_turun_harga.php','facebook','resizable,top=250,left=500,height=350,width=600');"><span id="img-f"></span></span>
+<span class="google" onClick="window.open('https://plus.google.com/share?url=http%3A%2F%2Fwww.seputarforex.com%2Fsaham%2Fsektor%2Ftabel_naik_turun_harga.php','google+','resizable,top=250,left=500,height=350,width=600');"><span id="img-g"></span></span>
+</div>
+
+<script>
+(function(){
+  var sflshare = '<span id="sf_id_share_link" onClick="sf_show_share();" > Share This</span>';
+  $('#page_id_time_author').append(sflshare);
+ })();
+
+function sf_show_share(){
+  $('#sf_id_share_link').hide();
+  $('#sf_id_share').show();
+ }
+</script>
+<div style="clear:both;"></div>
+<div id="content">
+
+
+<style>
+a.tbl_sektor_emiten{
+ color:#000000;
+}
+
+a.tbl_sektor_emiten:hover{
+ color:#0000FF;
+}
+</style>
+
+<h2>Tanggal : 15 Dec 2016</h2>
+<div style="margin:12px 0px 10px 0px; ">
+			<img src="/image/icon_arrow_right_c1.gif" width="12" height="12" />
+			<strong>Pilih Periode :</strong> 
+						<strong>1Hari</strong>
+						&nbsp;&nbsp;
+			<a href="/saham/sektor/tabel_naik_turun_harga.php?periode=1bulan" >			<strong>1Bulan</strong>
+			</a>			&nbsp;&nbsp;
+			<a href="/saham/sektor/tabel_naik_turun_harga.php?periode=3bulan" >			<strong>3Bulan</strong>
+			</a>			&nbsp;&nbsp;
+			<a href="/saham/sektor/tabel_naik_turun_harga.php?periode=6bulan" >			<strong>6Bulan</strong>
+			</a>			&nbsp;&nbsp;
+			<a href="/saham/sektor/tabel_naik_turun_harga.php?periode=1tahun" >			<strong>1Tahun</strong>
+			</a>			</div>
+
+
+
+<table width="100%"  cellpadding="4" cellspacing="2" style=" text-align:right; border-spacing:2px; border-collapse:separate; "  >
+<tr valign="top">
+	<td bgcolor="#96F989">
+		<div style="background-color:#3EB92E; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=agri" ><strong>AGRI</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">1870.97</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">0.82%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BWPT" >
+		<strong>BWPT</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">86.9B</td>
+				<td>248</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">8</font></td>
+				<td><font style="font-size:80%; ">3.33%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=LSIP" >
+		<strong>LSIP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">18.6B</td>
+				<td>1,775</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">55</font></td>
+				<td><font style="font-size:80%; ">3.2%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=SMAR" >
+		<strong>SMAR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.4M</td>
+				<td>4,600</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">100</font></td>
+				<td><font style="font-size:80%; ">2.22%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=AALI" >
+		<strong>AALI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">27.0B</td>
+				<td>17,050</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">150</font></td>
+				<td><font style="font-size:80%; ">0.89%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=UNSP" >
+		<strong>UNSP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.0M</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=GZCO" >
+		<strong>GZCO</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">172.5M</td>
+				<td>73</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=SGRO" >
+		<strong>SGRO</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">305.8M</td>
+				<td>1,905</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=SIMP" >
+		<strong>SIMP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">3.6B</td>
+				<td>505</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=TBLA" >
+		<strong>TBLA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">596.7M</td>
+				<td>950</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BISI" >
+		<strong>BISI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">272.8M</td>
+				<td>1,835</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-15</font></td>
+				<td><font style="font-size:80%; ">-0.81%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#96F989">
+		<div style="background-color:#3EB92E; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=consumer" ><strong>CONSUMER</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">2385.176</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">0.18%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=MYOR" >
+		<strong>MYOR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">549.8M</td>
+				<td>1,615</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">15</font></td>
+				<td><font style="font-size:80%; ">0.94%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=UNVR" >
+		<strong>UNVR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">91.2B</td>
+				<td>40,150</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">100</font></td>
+				<td><font style="font-size:80%; ">0.25%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INDF" >
+		<strong>INDF</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">29.8B</td>
+				<td>7,975</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=RMBA" >
+		<strong>RMBA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">0</td>
+				<td>480</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ROTI" >
+		<strong>ROTI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">304.8M</td>
+				<td>1,515</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=KLBF" >
+		<strong>KLBF</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">28.2B</td>
+				<td>1,530</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.33%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=KAEF" >
+		<strong>KAEF</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">13.6B</td>
+				<td>2,780</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-20</font></td>
+				<td><font style="font-size:80%; ">-0.71%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=GGRM" >
+		<strong>GGRM</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">39.9B</td>
+				<td>66,300</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-725</font></td>
+				<td><font style="font-size:80%; ">-1.08%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=AISA" >
+		<strong>AISA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">2.4B</td>
+				<td>1,950</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-40</font></td>
+				<td><font style="font-size:80%; ">-2.01%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ICBP" >
+		<strong>ICBP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">13.6B</td>
+				<td>8,700</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-225</font></td>
+				<td><font style="font-size:80%; ">-2.52%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=trade" ><strong>TRADE</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">839.76</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.03%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=MNCN" >
+		<strong>MNCN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">18.0B</td>
+				<td>1,900</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">75</font></td>
+				<td><font style="font-size:80%; ">4.11%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=UNTR" >
+		<strong>UNTR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">95.0B</td>
+				<td>22,550</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">225</font></td>
+				<td><font style="font-size:80%; ">1.01%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=MAPI" >
+		<strong>MAPI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">427.5M</td>
+				<td>5,025</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">25</font></td>
+				<td><font style="font-size:80%; ">0.5%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=AKRA" >
+		<strong>AKRA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">13.8B</td>
+				<td>6,300</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=HEXA" >
+		<strong>HEXA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">18.5M</td>
+				<td>3,560</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-10</font></td>
+				<td><font style="font-size:80%; ">-0.28%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ASGR" >
+		<strong>ASGR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">87.5M</td>
+				<td>1,770</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-10</font></td>
+				<td><font style="font-size:80%; ">-0.56%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BHIT" >
+		<strong>BHIT</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.8B</td>
+				<td>138</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-1</font></td>
+				<td><font style="font-size:80%; ">-0.72%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ERAA" >
+		<strong>ERAA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.3B</td>
+				<td>630</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-10</font></td>
+				<td><font style="font-size:80%; ">-1.56%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BMTR" >
+		<strong>BMTR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">31.8B</td>
+				<td>600</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-10</font></td>
+				<td><font style="font-size:80%; ">-1.64%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=RALS" >
+		<strong>RALS</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">11.3B</td>
+				<td>1,095</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-45</font></td>
+				<td><font style="font-size:80%; ">-3.95%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=mining" ><strong>MINING</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">1413.803</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.1%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ANTM" >
+		<strong>ANTM</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">61.1B</td>
+				<td>895</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">15</font></td>
+				<td><font style="font-size:80%; ">1.7%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=PTBA" >
+		<strong>PTBA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">21.7B</td>
+				<td>12,700</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">100</font></td>
+				<td><font style="font-size:80%; ">0.79%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INCO" >
+		<strong>INCO</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">23.3B</td>
+				<td>3,250</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">10</font></td>
+				<td><font style="font-size:80%; ">0.31%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ENRG" >
+		<strong>ENRG</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.2M</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BORN" >
+		<strong>BORN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">0</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ITMG" >
+		<strong>ITMG</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">24.7B</td>
+				<td>17,500</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-150</font></td>
+				<td><font style="font-size:80%; ">-0.85%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ADRO" >
+		<strong>ADRO</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">43.6B</td>
+				<td>1,670</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-20</font></td>
+				<td><font style="font-size:80%; ">-1.18%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BUMI" >
+		<strong>BUMI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">61.1B</td>
+				<td>278</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-4</font></td>
+				<td><font style="font-size:80%; ">-1.42%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=MEDC" >
+		<strong>MEDC</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">5.7B</td>
+				<td>1,345</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-40</font></td>
+				<td><font style="font-size:80%; ">-2.89%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=TINS" >
+		<strong>TINS</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">30.5B</td>
+				<td>1,140</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-35</font></td>
+				<td><font style="font-size:80%; ">-2.98%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=property" ><strong>PROPERTY</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">523.64</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.15%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=WIKA" >
+		<strong>WIKA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">71.4B</td>
+				<td>2,530</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">100</font></td>
+				<td><font style="font-size:80%; ">4.12%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ADHI" >
+		<strong>ADHI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">83.9B</td>
+				<td>2,090</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">10</font></td>
+				<td><font style="font-size:80%; ">0.48%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=APLN" >
+		<strong>APLN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">2.9B</td>
+				<td>232</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BKSL" >
+		<strong>BKSL</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">23.9B</td>
+				<td>92</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ELTY" >
+		<strong>ELTY</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.0M</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=CTRA" >
+		<strong>CTRA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">68.7B</td>
+				<td>1,350</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.37%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BSDE" >
+		<strong>BSDE</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">30.8B</td>
+				<td>1,750</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-20</font></td>
+				<td><font style="font-size:80%; ">-1.13%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ASRI" >
+		<strong>ASRI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">12.5B</td>
+				<td>370</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-6</font></td>
+				<td><font style="font-size:80%; ">-1.6%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=PTPP" >
+		<strong>PTPP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">113.4B</td>
+				<td>3,820</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-70</font></td>
+				<td><font style="font-size:80%; ">-1.8%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=PWON" >
+		<strong>PWON</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">54.7B</td>
+				<td>590</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-30</font></td>
+				<td><font style="font-size:80%; ">-4.84%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=finance" ><strong>FINANCE</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">780.257</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.25%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BJBR" >
+		<strong>BJBR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">231.2B</td>
+				<td>2,400</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">200</font></td>
+				<td><font style="font-size:80%; ">9.09%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BDMN" >
+		<strong>BDMN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">4.2B</td>
+				<td>3,390</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">40</font></td>
+				<td><font style="font-size:80%; ">1.19%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BBCA" >
+		<strong>BBCA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">370.6B</td>
+				<td>14,775</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">25</font></td>
+				<td><font style="font-size:80%; ">0.17%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BBKP" >
+		<strong>BBKP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">2.1B</td>
+				<td>630</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BTPN" >
+		<strong>BTPN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">15.1M</td>
+				<td>2,850</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=PNBN" >
+		<strong>PNBN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">562.1M</td>
+				<td>735</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.68%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BMRI" >
+		<strong>BMRI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">149.1B</td>
+				<td>10,800</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-75</font></td>
+				<td><font style="font-size:80%; ">-0.69%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BBTN" >
+		<strong>BBTN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">14.1B</td>
+				<td>1,715</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-15</font></td>
+				<td><font style="font-size:80%; ">-0.87%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BBRI" >
+		<strong>BBRI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">223.2B</td>
+				<td>11,400</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-100</font></td>
+				<td><font style="font-size:80%; ">-0.87%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BBNI" >
+		<strong>BBNI</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">67.2B</td>
+				<td>5,400</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-75</font></td>
+				<td><font style="font-size:80%; ">-1.37%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=misc-ind" ><strong>MISC-IND</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">1296.956</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.31%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=POLY" >
+		<strong>POLY</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.1B</td>
+				<td>61</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">2</font></td>
+				<td><font style="font-size:80%; ">3.39%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=AUTO" >
+		<strong>AUTO</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">3.6B</td>
+				<td>2,100</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">50</font></td>
+				<td><font style="font-size:80%; ">2.44%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=IMAS" >
+		<strong>IMAS</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">17.1M</td>
+				<td>1,400</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ASII" >
+		<strong>ASII</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">255.1B</td>
+				<td>7,750</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-25</font></td>
+				<td><font style="font-size:80%; ">-0.32%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=SMSM" >
+		<strong>SMSM</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.3B</td>
+				<td>975</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.51%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INDS" >
+		<strong>INDS</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">96.4M</td>
+				<td>865</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.57%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=GJTL" >
+		<strong>GJTL</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">6.1B</td>
+				<td>1,105</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-15</font></td>
+				<td><font style="font-size:80%; ">-1.34%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ADMG" >
+		<strong>ADMG</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">330.7M</td>
+				<td>131</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-3.68%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=MASA" >
+		<strong>MASA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">372.9M</td>
+				<td>278</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-12</font></td>
+				<td><font style="font-size:80%; ">-4.14%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INDR" >
+		<strong>INDR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">2.9M</td>
+				<td>750</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-50</font></td>
+				<td><font style="font-size:80%; ">-6.25%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" ><strong>INFRASTRUC</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">1052.008</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.47%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=GIAA" >
+		<strong>GIAA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">895.9M</td>
+				<td>372</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">2</font></td>
+				<td><font style="font-size:80%; ">0.54%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=TBIG" >
+		<strong>TBIG</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">7.5B</td>
+				<td>5,150</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BTEL" >
+		<strong>BTEL</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">0</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=CMNP" >
+		<strong>CMNP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">301.4M</td>
+				<td>1,635</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=TLKM" >
+		<strong>TLKM</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">229.9B</td>
+				<td>3,910</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-10</font></td>
+				<td><font style="font-size:80%; ">-0.26%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INDY" >
+		<strong>INDY</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">2.1B</td>
+				<td>785</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.63%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=JSMR" >
+		<strong>JSMR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">44.7B</td>
+				<td>4,480</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-50</font></td>
+				<td><font style="font-size:80%; ">-1.1%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=ISAT" >
+		<strong>ISAT</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">294.0M</td>
+				<td>6,200</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-75</font></td>
+				<td><font style="font-size:80%; ">-1.2%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=PGAS" >
+		<strong>PGAS</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">44.1B</td>
+				<td>2,800</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-80</font></td>
+				<td><font style="font-size:80%; ">-2.78%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=EXCL" >
+		<strong>EXCL</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">9.1B</td>
+				<td>2,270</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-70</font></td>
+				<td><font style="font-size:80%; ">-2.99%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+<tr valign="top">
+	<td bgcolor="#FE848A">
+		<div style="background-color:#CB2929; padding-right:3px; margin:0px;">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" ><strong>BASIC-IND</strong></a>
+		</div> 
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td colspan="2">544.671</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td><font style="font-size:80%; ">-0.86%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=KRAS" >
+		<strong>KRAS</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">35.5B</td>
+				<td>840</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">20</font></td>
+				<td><font style="font-size:80%; ">2.44%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=TKIM" >
+		<strong>TKIM</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.9M</td>
+				<td>775</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">15</font></td>
+				<td><font style="font-size:80%; ">1.97%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=BRPT" >
+		<strong>BRPT</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">31.5B</td>
+				<td>1,465</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">20</font></td>
+				<td><font style="font-size:80%; ">1.38%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#96F989">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=CPIN" >
+		<strong>CPIN</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">19.8B</td>
+				<td>3,180</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">30</font></td>
+				<td><font style="font-size:80%; ">0.95%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FBF14B">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=NIKL" >
+		<strong>NIKL</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">0</td>
+				<td>2,270</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">0</font></td>
+				<td><font style="font-size:80%; ">0%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=SMCB" >
+		<strong>SMCB</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.6B</td>
+				<td>905</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-5</font></td>
+				<td><font style="font-size:80%; ">-0.55%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INKP" >
+		<strong>INKP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">1.2B</td>
+				<td>960</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-10</font></td>
+				<td><font style="font-size:80%; ">-1.03%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=JPFA" >
+		<strong>JPFA</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">7.4B</td>
+				<td>1,670</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-45</font></td>
+				<td><font style="font-size:80%; ">-2.62%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=INTP" >
+		<strong>INTP</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">23.1B</td>
+				<td>16,150</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-450</font></td>
+				<td><font style="font-size:80%; ">-2.71%</font></td>
+			</tr>
+		</table>
+	</td>
+		<td bgcolor="#FE848A">
+		<a class="tbl_sektor_emiten" href="/saham/grafik/harga.php?kode=SMGR" >
+		<strong>SMGR</strong></a><br>
+		<table width="100%" cellpadding="0" cellspacing="0">	
+			<tr>
+				<td><font style="font-size:80%; ">88.4B</td>
+				<td>8,975</td>
+			</tr>
+			<tr>
+				<td><font style="font-size:80%; ">-325</font></td>
+				<td><font style="font-size:80%; ">-3.49%</font></td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+
+</table>
+
+
+</div>
+
+</article>
+<div style="clear:both; "></div>
+<br />
+<br />
+
+
+
+
+<div id="container_left" >
+
+
+
+    
+
+
+
+<br><h2>Berita Saham</h2><ul style="margin:0px 0px 20px 0px; padding:0; list-style-type: none; ">
+
+    <li><a href="/berita/saham/detail.php?id=272899&title=wsbp_ipo_sukses_bangun_tiga_pabrik_baru"  >WSBP: IPO Sukses, Bangun Tiga Pabrik Baru</a></li>
+    <li><a href="/berita/saham/detail.php?id=271931&title=ppro_harga_saham_capai_tertinggi_sejak_ipo"  >PPRO: Harga Saham Capai Tertinggi Sejak IPO</a></li>
+    <li><a href="/berita/saham/detail.php?id=271223&title=myoh_profit_kurs_valas_dorong_laba_melonjak_25_persen"  >MYOH: Profit Kurs Valas Dorong Laba Melonjak 25 Persen</a></li>
+    <li><a href="/berita/saham/detail.php?id=270511&title=wskt_anak_usaha_waskita_beton_precast_bakal_ipo_september"  >WSKT: Anak Usaha Waskita Beton Precast Bakal IPO September</a></li>
+    <li><a href="/berita/saham/detail.php?id=270365&title=aisa_pendapatan_awal_tahun_2016_naik_14"  >AISA: Pendapatan Awal Tahun 2016 Naik 14%</a></li>
+    <li><a href="/berita/saham/detail.php?id=270373&title=beks_suspensi_perdagangan_saham_dicabut"  >BEKS: Suspensi Perdagangan Saham Dicabut</a></li>
+    <li><a href="/berita/saham/detail.php?id=269593&title=lpck_persaingan_properti_ketat_laba_menurun_di_awal_2016"  >LPCK: Persaingan Properti Ketat, Laba Menurun Di Awal 2016</a></li>
+    <li><a href="/berita/saham/detail.php?id=269323&title=hmsp_pertahankan_laba_naikkan_harga_rokok_tiap_bulan"  >HMSP: Pertahankan Laba, Naikkan Harga Rokok Tiap Bulan</a></li>
+  	
+ 
+      <li><a href="/berita/saham/" >Berita Saham Lainnya</a></li>
+  
+  </ul>
+	
+ 	
+
+<br><h2>Analisa Saham</h2><ul style="margin:0px 0px 20px 0px; padding:0; list-style-type: none; ">
+
+    <li><a href="/analisa/lihat.php?id=276694&title=ulasan_saham_16_desember_implikasi_hasil_the_fed_terhadap_ihsg"  >Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG</a></li>
+    <li><a href="/analisa/lihat.php?id=276617&title=ulasan_saham_13_desember_ihsg_menantikan_fomc_dan_rdg_bank_indonesia"  >Ulasan Saham 13 Desember: IHSG Menantikan FOMC Dan RDG Bank Indonesia</a></li>
+    <li><a href="/analisa/lihat.php?id=276572&title=ulasan_saham_09_desember_ihsg_dipengaruhi_hasil_keputusan_ecb"  >Ulasan Saham 09 Desember: IHSG Dipengaruhi Hasil Keputusan ECB</a></li>
+    <li><a href="/analisa/lihat.php?id=276524&title=ulasan_saham_06_desember_cermati_pembalikan_arah_tren_ihsg"  >Ulasan Saham 06 Desember: Cermati Pembalikan Arah Tren IHSG</a></li>
+    <li><a href="/analisa/lihat.php?id=276429&title=ulasan_saham_29_november_pasar_bereaksi_sideways_menunggu_data_pdb_as"  >Ulasan Saham 29 November: Pasar Bereaksi Sideways Menunggu Data PDB AS</a></li>
+    <li><a href="/analisa/lihat.php?id=276368&title=ulasan_saham_24_november_minutes_the_fed_mengisyaratkan_kenaikan_rate"  >Ulasan Saham 24 November: Minutes The Fed Mengisyaratkan Kenaikan Rate</a></li>
+    <li><a href="/analisa/lihat.php?id=276283&title=ulasan_saham_18_november_ihsg_bergerak_bearish_pasca_trump_effect"  >Ulasan Saham 18 November: IHSG Bergerak Bearish Pasca Trump Effect</a></li>
+    <li><a href="/analisa/lihat.php?id=276266&title=ulasan_saham_17_november_arah_ihsg_setelah_periode_selloff"  >Ulasan Saham 17 November: Arah IHSG Setelah Periode Sell-Off</a></li>
+  	
+ 
+      <li><a href="/analisa/saham/" >Analisa Saham Lainnya</a></li>
+  
+  </ul>
+	
+ 	
+
+
+<div style="margin:0px 0px 30px 0px; ">
+<div style="height:4px; background-color:#0000FF; margin:0px 0px 8px 0px;  "></div>
+
+<strong>
+<a href="/amon/halaman/peluang_trading_forex/" >Anda belum mengenal 'Trading Forex Online' ?</a>
+</strong><br />
+ Dengan kapitalasi pasar terbesar saat ini, serta pergerakan sd 100-250 pips per hari. Artinya apa? Hanya dengan modal 500$ an, Anda berpotensi mendapat 1-10$.
+ Trading forex online mungkin bisa Anda manfaatkan untuk  untuk mendapat
+ penghasilan tambahan.  
+ Anda bisa melakukan trading forex online dengan santai
+  lewat pc, tabled, android, dari rumah atau dimanapun,
+ serta dengan modal yg tidak terlalu besar.
+ <strong> <a href="/amon/halaman/peluang_trading_forex/" >Penasaran</a></strong>
+</div><script type="text/javascript" src="/amon/komentar/nicedit/nicEdit.js"></script>
+<script type="text/javascript" src="/amon/komentar/2015_js.js"></script>
+<style>
+.sf_kom_isi_content ul { padding:0;  list-style: disc inside none; }
+.sf_kom_isi_content ul li {  margin:0; padding:0;  }
+</style>
+
+<div id="sf_id_komentar_manual_2015">
+
+
+
+
+<ul class="sfgenkom_main1">
+
+</ul>
+
+<div id="gerak"></div>
+<div style="clear:both; "></div>
+<div style="border-top:4px solid #FF9900;max-width:100%; padding:14px; 
+margin:0px 0px 30px 0px;  background-color:#f7f7f7; ">
+
+<form action="/amon/komentar/2015_kotak_kirim_post.php" method="post" enctype="multipart/form-data" target="sf_frame_gkomp" 
+onsubmit="return gkompcheck();" id="sf_idform_komentar">
+<input type="hidden" name="sf_p1" value="021553120122016031602427383120215532016160302" />
+<input type="hidden" name="sf_p2" value="ZMCitMCmZqydm6m8s3vTmpmepIY1u2iTb2Bjrqq3vq2sq62elLWivsaaZamgoAY1u2iTb3DY1u2iTb3D" />
+    
+	
+<div id="sfkomidrep" style=" display:none; margin:0px 0px 20px 0px;
+ border-radius:6px; border:1px dashed #dddddd; background-color:#FFFFFF;
+ padding:8px 8px 0px 8px; "></div>
+ <div style="background-color:#FFFFFF; width:100%; margin:0px 0px 6px 0px;  ">
+ <textarea id="sf_gkomp_que" name="from_komentar_umum_isi"  style="  height:60px; border:0px; width:99.8%; "></textarea>
+ </div>
+    <div id="id_tanya_profil" style="margin:0px 0px 8px 0px; display:none;   ">
+      <input id="sf_gkomp_nama" name="from_komentar_umum_nama" onFocus="sf_gkomp_klik_nama();" type="text" value="nama anda"   maxlength="60" style=" color:#999999; width:220px; margin:0px 0px 6px 0px;  "/>
+      &nbsp;&nbsp;&nbsp;
+      <input id="sf_gkomp_email" name="from_komentar_umum_email" onFocus="sf_gkomp_klik_email();" type="text" value="email anda [optional]"   maxlength="80" style=" color:#999999; width:220px; "/>
+      <span onClick="sf_gkomp_klik_date();" style=" margin:0px 0px 0px 20px; width:50px; cursor:crosshair; ">&nbsp;&nbsp;</span>
+      <input id="sf_gkomp_d" name="from_komentar_umum_d" type="text" 
+  value="2016-12-16" 
+  style=" color:#999999; width:90px; border:1px solid #dddddd; padding:4px; display:none; "/>
+    </div>
+    <input type="submit" name="sf_submit_tanya" value="K I R I M  K O M E N T A R" />
+    <br>
+    <iframe src=""  name="sf_frame_gkomp" id="id_frame_gkomp" scrolling="no" 
+ frameborder="0" style=" width:90%; height:18px; 
+overflow: hidden;  padding:0px; display:none; margin:4px 0px 0px 0px;  "> </iframe>
+    <input type="hidden" id="sf_id_kr1"  name="sfr1" value="0"  />
+    <input type="hidden" id="sf_id_kr2"  name="sfr2" value="0"  />
+    <input type="hidden" id="sf_id_kr3"  name="sfr3" value="0"  />
+    <input type="hidden" id="sf_id_kr4"  name="sfr4" value="0"  />
+  </form>
+</div>
+</div>
+
+<script>
+ $(document).ready(function() {
+   sftogglekom();
+     });
+</script>
+
+<section id="comment_facebook">
+<div class="fb-comments" data-href="http://www.seputarforex.com/saham/sektor/tabel_naik_turun_harga.php"
+ data-width="100%" data-numposts="10"
+ data-colorscheme="light" data-order-by="reverse_time" >
+</div>
+<div id="sf_id_fb_post"></div>
+</section>
+
+
+
+</div>
+
+<div id="container_right" >
+    
+<div id="sf_id_banner_300">
+<div class="banner_300_ads" >
+
+<a href="/advertising/client/go.php?k=firewoodfx_slot4&g=http%3A%2F%2Fwww.firewoodfx.com%2Ffix-rate-idr-deposit-and-withdrawal%2F%3Fib%3Dseputar_300_6%26utm_campaign%3Dseputarforex300_6%26utm_source%3Dseputarforex%26utm_medium%3Dbanner" target="_blank" rel="nofollow" >
+<img src="/amon/ads2013/pos_300_250_file/firewood-award-color.jpg"
+ width="300" height="250" alt="" style="border:0; "  />
+</a>
+ 
+</div>
+<div class="banner_300_ads" >
+<a href="/advertising/client/go.php?k=firewoodfx_slot6&g=http%3A%2F%2Fwww.firewoodfx.com%2F%3Fib%3Dseputarforex300_5%26utm_campaign%3Dseputarforex300_5%26utm_sourceputarforex%26utm_medium%3Dbanner" target="_blank" rel="nofollow" >
+<img src="/amon/ads2013/pos_300_250_file/firewood-award3.jpg"
+ width="300" height="250" alt="" style="border:0; "  />
+</a>
+</div>
+</div>
+<div id="sf_id_banner_300_top"></div>
+
+
+    
+<div class="section_kanan_link_text">
+<div style="height:4px; background-color:#996633;  "></div>
+<div class="pad_8">
+<h2>Saham BEI</h2>
+<ul>
+
+<li><a href="http://www.seputarforex.com/saham/" >Informasi Pasar Saham</a></li>
+<li><a href="http://www.seputarforex.com/saham/grafik/indeks_bei/harga.php?kode=composite" >Indeks BEI (IHSG)</a></li>
+<li><a href="http://www.seputarforex.com/saham/aktif/" >Saham Aktif Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/saham/untung/" >Saham Untung Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/saham/rugi/" >Saham Rugi Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/berita/saham/" >Berita Saham BEI</a></li>
+<li><a href="http://www.seputarforex.com/analisa/saham/" >Analisa Saham</a></li>
+<li><a href="http://www.seputarforex.com/analisa/saham/teknikal/" >Analisa Teknikal</a></li>
+<li><a href="http://www.seputarforex.com/analisa/saham/fundamental/" >Analisa Fundamental</a></li>
+
+<li><a href="http://www.seputarforex.com/artikel/saham/" >Artikel Saham</a></li>
+
+
+<li><a href="http://www.seputarforex.com/saham/lq_45/" >Daftar Saham LQ45</a></li>
+<li><a href="http://www.seputarforex.com/saham/kompas_100/" >Daftar  Kompas 100</a></li>
+<li><a href="http://www.seputarforex.com/saham/pefindo_25/" >Daftar  Pefindo 25</a></li>
+<li><a href="http://www.seputarforex.com/saham/daftar_broker_online/" >Daftar Broker  Online</a></li>
+<li><a href="http://www.seputarforex.com/saham/daftar_emiten/" >Daftar Emiten</a></li>
+
+<li><a href="http://www.seputarforex.com/widget/" >Widget Saham/Forex</a></li>
+<li><a href="http://www.seputarforex.com/saham/monitoring/" >Monitoring Saham</a></li>
+<li><a href="http://www.seputarforex.com/saham/watchlist/" >Watchlist</a></li>
+<li><a href="http://www.seputarforex.com/saham/data_historis/" >Download Data Historis</a></li>
+<li><a href="http://www.seputarforex.com/saham/performa_sektor/" >Performa Sektor</a></li>
+<li><a href="http://www.seputarforex.com/saham/sektor/tabel_naik_turun_harga.php" >Tabel Naik Turun Emiten</a></li>
+<li class="bord_none"><a href="http://www.seputarforex.com/saham/ekonomi/" >Ulasan Ekonomi</a></li>
+
+
+</ul>
+</div>
+</div>
+
+    <div id="sf_202_kanan_monitor" ></div>
+<div id="sf_202_kanan_isi" ></div> 
+<div id="sf_202_div_top"></div>
+
+
+</div>
+
+<div style="clear:both; "></div>
+</div>
+
+<div style="clear:both;"></div>
+<footer id="sf_page_footer">
+    <nav id="sf_bottom_menu_container" ></nav>
+
+
+  <section id="sf_id_disclaimer" >
+<h4>DISCLAIMER</h4>
+<ul>
+  <li>Informasi, materi, rekomendasi, dan data   dibuat sebaik mungkin   namun  tidak  menjamin 100% keakuratannya.</li>
+  <li>Tidak mengajak ataupun mengharuskan untuk bertrading forex, forex adalah beresiko, segala keputusan dan kerugian adalah tanggung jawab Anda sendiri.</li>
+  <li>Tidak menjamin kualitas ataupun kredibilitas atas  link ke luar(pihak ketiga) berupa iklan berbayar, banner, broker, referral, dsb.</li>
+  <li>Artikel/tulisan oleh team seputarforex, boleh dijadikan acuan/ditaruh di situs lain, namun berdasarkan etika harus mencantumkan link balik ke situs seputarforex.com<br>
+  </li>
+</ul>
+</section>
+
+
+<section id="sf_subscribe_update"></section><div id="fb-root"></div>
+<script>
+  FB=null;
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    js = d.createElement(s); js.id = id;
+    js.src = "http://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=234692533211735";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<script type="text/javascript">
+
+function move_sf_comment(){
+  if($('#container_right').css('float')=='none'){
+    $("#sf_id_komentar_manual_2015").appendTo("#container_right");
+    $("#comment_facebook").appendTo("#container_right");
+  }}
+
+$(document).ready(function(){
+
+//----- adjust flash size --------------
+$(".sf_flash_fit_300").fitVids();
+$(".sf_flash_fit_728").fitVids();   
+
+//----- load right promo ----------------
+setTimeout($('#sf_202_kanan_isi').load('/aazframe/rev_2015/sf_right_isi.php?'+ location.pathname + location.search), 6000);
+
+//----- load bottom menu ----------------
+setTimeout($('#sf_bottom_menu_container').load('/aazframe/rev_2015/sf_bottom_menu_isi.php?p=aaasahamaaasektoraaatabel_naik_turun_harga.php'), 8000);  
+
+//----- move comment -------------------
+setTimeout(move_sf_comment(), 9000);
+
+//------ popup ----------------------------
+ setTimeout( $('#sf_subscribe_update').load('/aazframe/rev_2015/popup/main.php'),40000 );  
+//-------------------------------------------    
+  
+  
+
+});
+</script>
+<script type="text/javascript" >
+function sf_track_link_artikel(x,y){
+var x;
+var y;
+var request = 'http://www.seputarforex.com/aazframe/statistik/artracklink.php?x=' + x + '&y=' + y;
+$.post(request);
+/*
+var shost = window.location.hostname;
+var request = 'http://' + shost + '/aazframe/statistik/artracklink.php?x=' + x + '&y=' + y;
+$.post(request, function(data, e){ if(href.includes("seputarforex.com")){ window.open(href,'_self'); }else{window.open(href,'_blank')}});
+return false;
+*/
+}
+</script>
+
+
+<script type="text/javascript" >
+function sf_tracklink(x,y,z){
+var x; 
+var y; 
+var z;
+var request = 'http://www.seputarforex.com/aazframe/statistik/tracklink.php?x=' + x + '&y=' + y;
+$.post(request,function( data ) { window.location.href = z;});
+return false;
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69974666-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div id="sf_id_show_stat">
+
+
+<!-- Histats.com  (div with counter) --><div id="histats_counter" ></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.startgif', '1,761015,4,10047,"div#histatsC {position: absolute;top:0px;left:0px;}body>div#histatsC {position: fixed;}"']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('http://s10.histats.com/js15_gif_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="http://www.histats.com" alt="free hit counter" target="_blank" ><div id="histatsC"><img border="0" src="http://s4is.histats.com/stats/i/761015.gif?761015&103"></div></a>
+</noscript>
+<!-- Histats.com  END  -->
+
+
+
+<div style="clear:both; "></div>
+</div>
+
+</footer>
+</ body>
+</html>
+ 

@@ -1,0 +1,1799 @@
+<!doctype html>
+
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/files/css3-mediaqueries.js"></script>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<html>
+<head>
+<meta charset="utf-8">
+<title>Daftar Saham Kompas 100</title>
+<meta name="keywords" content="saham kompas 100, saham pilihan kompas, saham unggulan 2016,100 saham bei pilihan, saham kompas 100 periode februari 2016, saham kompas 100 periode juli 2016" >
+<meta name="description" content="Daftar saham kompas 100 periode Februari 2016 sampai dengan Juli 2016.">
+<meta name="Robots" content="index,follow">
+<meta property="og:site_name" content="seputarforex" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, minimum-scale=1.0, user-scalable=yes"> 
+<link rel='stylesheet' type="text/css" href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700' >
+<link rel="stylesheet" type="text/css" href="/aazcss/rev_2015/sf_main.css" >
+<link rel="stylesheet" type="text/css" href="/aazcss/rev_2015/sf_nav.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js" ></script>
+<script type="text/javascript" src="/aazcss/rev_2015/sf_mobile_detect.js" ></script>
+<script type="text/javascript" src="/aazcss/rev_2015/jquery.fitvids.js" ></script>
+<script type="text/javascript" src="/aazcss/ibox/ibox.js"></script>
+<meta property="fb:app_id" content="234692533211735"/>
+<meta name="alexaVerifyID" content="kZVteOcZuMVO7ZBVfTjNFaXbN7A" />
+
+
+</head>
+<body>
+
+<header id="sf_id_header_top">
+
+<script>
+function show_search_text(){
+ $('.td_share').hide();
+ $('.im_search').hide();
+ $('.sf-form-cari').show('slow');
+ }
+</script>
+
+
+<div class="patas">
+<div class="pkanan">
+
+<a href="https://idnfbs.com?utm_source=seputarforex.com&utm_medium=banner&utm_content=brand_grey_728x90&utm_campaign=id_idn_network" target="_blank" rel="nofollow">
+<img src="/amon/ads2013/pos_728_90_file/fbs_trading_profit.gif" alt="" width="728" height="90" border="0" />
+</a> 
+
+
+
+
+
+
+
+
+
+
+<!-- |3|98|instaforex| -->
+
+</div>
+<div class="pkiri">
+<a href="http://www.seputarforex.com"><img src="/image_baru/logo_seputarforex.png" height="40" width="230" class="logo_img"  /></a>
+
+<table class="tb_share" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td>
+<img class="im_search" src="/image_baru/search-grey.png" onclick="show_search_text();" style="cursor:pointer;" width="28" height="28" title="cari di seputarforex"  />
+<form class="sf-form-cari"  action="/pencarian/global.php" style="display:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><input name="q" type="text" style="width:100%;"  required placeholder = 'pencarian' /></td>
+    <td style="background-color:#FF9900;" ><input type="submit"  value="GO"></td>
+  </tr>
+</table>
+<input type="hidden" name="cx" value="partner-pub-9613178620224228:2962175820" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+</form>
+
+</td>
+<td class="td_share"><a href="http://www.facebook.com/seputarforex.fanspage" target="_blank"><img src="/image_baru/fb-grey.png" width="28" height="28" border="0" title="facebook"  /></a></td>
+<td class="td_share"><a href="http://www.twitter.com/seputarforex" target="_blank"><img src="/image_baru/tw-grey.png" width="28" height="28" title="twitter"  /></a></td>
+<td class="td_share"><a href="https://plus.google.com/112637132066077468609" target="_blank"><img src="/image_baru/gplus-grey.png" width="28" height="28" title="google plus"  /></a></td>
+<td class="td_share"><a href="https://www.instagram.com/seputarforex/" target="_blank"><img src="/image_baru/insta-gray.png" width="28" height="28" title="instagram"  /></a></td>
+<td class="td_share"><a href="/newsletter/" target="_blank"><img src="/image_baru/sub-grey.png" width="28" height="28" title="berlangganan newsletter"  /></a></td>
+</tr>
+</table>
+
+</div>
+<div style="clear:both;"></div>
+</div>
+
+
+<div class="pmob">
+<div class="mob300-kiri">
+<a href="http://www.seputarforex.com"><img src="/image_baru/logo_seputarforex.png" width="242" height="50"  /></a>
+
+<form  action="/pencarian/global.php" class="sf-form-cari" >
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><input name="q" type="text" style="width:100%;"  required placeholder = 'pencarian' /></td>
+    <td style="background-color:#FF9900;"><input type="submit"  value="GO"></td>
+  </tr>
+</table>
+<input type="hidden" name="cx" value="partner-pub-9613178620224228:2962175820" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="UTF-8" />
+</form>
+
+<table class="tb_share_mob" style="margin:8px 0px 0px -2px;" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td><a href="http://www.facebook.com/seputarforex.fanspage" target="_blank"><img src="/image_baru/fb-grey.png" width="28" height="28" border="0" title="facebook"  /></a></td>
+<td><a href="http://www.twitter.com/seputarforex" target="_blank"><img src="/image_baru/tw-grey.png" width="28" height="28" title="twitter"  /></a></td>
+<td><a href="https://plus.google.com/112637132066077468609" target="_blank"><img src="/image_baru/gplus-grey.png" width="28" height="28" title="google plus"  /></a></td>
+<td><a href="/newsletter/" target="_blank"><img src="/image_baru/sub-grey.png" width="28" height="28" title="berlangganan newsletter"  /></a></td>
+</tr>
+</table>
+
+
+
+</div>
+
+<div class="mob300-kanan">
+<div class="mob300-30" style="margin-right:2%;" >
+
+
+
+
+
+
+
+<a href="https://www.ifxid.com/forex_bonus.php?x=sptfx" rel="nofollow" 
+target="_blank" style="outline: none">
+<img src="/amon/ads2013/pos_300_250_file/insta_follow.jpg" alt="" width="300" height="250"  border="0" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="mob300-30" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.ifxid.com/?x=sptfx" rel="nofollow" 
+target="_blank" style="outline: none">
+<img src="/amon/ads2013/pos_300_250_file/insta_metal_trading.jpg" alt="" width="300" height="250"  border="0" />
+</a>
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+<div style="clear:both;"></div>
+</div>
+<nav id="sf_menu_utama">
+<ul id="sf_id_nav" >
+<li><a href="http://www.seputarforex.com/" >Home</a></li> 
+<li><a href="http://www.seputarforex.com/belajar/forex/"  id="parent_sf_menu_belajar"  >Belajar</a></li>
+<li><a href="http://www.seputarforex.com/artikel/forex/"  id="parent_sf_menu_artikel"  >Artikel</a></li>
+<li><a href="http://www.seputarforex.com/broker/forex/"  id="parent_sf_menu_broker"  >Broker</a></li>
+<li><a href="http://www.seputarforex.com/analisa/forex/" id="parent_sf_menu_analisa"  >Analisa</a></li>
+<li><a href="http://www.seputarforex.com/berita/"  id="parent_sf_menu_berita"  >Berita</a></li>
+<li><a href="http://www.seputarforex.com/tools/"  id="parent_sf_menu_tools"  >Tools</a></li>
+<li><a href="http://www.seputarforex.com/saham/"  id="parent_sf_menu_saham" >Saham</a></li>
+<li><a href="http://www.seputarforex.com/data/" id="parent_sf_menu_data"  >Data</a></li>
+<li><a href="#" class="sf_nav" id="parent_sf_menu_more" >More </a></li>
+</ul>
+</nav>
+<div id="sf_active_menu" ></div>
+<div id="sf_dinamic_menu" ></div>
+
+
+
+
+
+
+
+
+<nav class="sf_hor_sub_menu" id="sf_menu_saham_def"  >
+<ul>
+  <li><a href="http://www.seputarforex.com/saham/">Info Pasar</a></li>
+  <li><a href="http://www.seputarforex.com/saham/aktif/" >Saham Aktif</a></li>
+  <li><a href="http://www.seputarforex.com/saham/performa_sektor/" >Performa Sektor</a></li>
+  <li><a href="http://www.seputarforex.com/saham/sektor/tabel_naik_turun_harga.php" >Tabel Naik Turun</a></li>
+</ul><ul>
+  <li><a href="http://www.seputarforex.com/artikel/saham/" >Artikel</a></li>
+  <li><a href="http://www.seputarforex.com/analisa/saham/" >Analisa</a></li>
+  <li><a href="http://www.seputarforex.com/berita/saham/" >Berita</a></li>
+  <li><a href="http://www.seputarforex.com/saham/ekonomi/" >Ulasan Ekonomi</a></li>
+</ul><ul>
+  <li><a href="http://www.seputarforex.com/saham/daftar_emiten/" >Daftar Emiten</a></li>
+  <li><a href="http://www.seputarforex.com/saham/monitoring/" >Monitoring Saham</a></li>
+  <li><a href="http://www.seputarforex.com/saham/watchlist/" >Watchlist</a></li>
+</ul>
+<div style="clear:both; "></div>
+</nav>
+
+
+<script type="text/javascript" src="/aazcss/rev_2015/sf_nav.js"></script>
+
+</header>
+
+
+
+
+<div id="container" >
+<div id="container_left" >
+<article>
+
+<header>
+<h1 id="page_id_title">Daftar Saham KOMPAS 100 Periode Februari - Juli 2016</h1>
+<p id="page_id_time_author">Tanggal : 15 Dec 2016</p>
+</header>
+
+<section id="social_button"></section>
+<style>
+#sf_id_share { display:none; margin:0px 0px 14px 0px; float:left;}
+#sf_id_share_link { color:#0000FF; cursor:pointer; letter-spacing:normal; }
+#sf_id_share_link:hover { text-decoration:underline;  }
+#sf_id_share span {height:30px;width:80px; display:block; float:left; margin-right: 5px;}
+#sf_id_share span.twitter {background-color: #00aced;}
+#sf_id_share span.facebook {background-color: #3c5a98;}
+#sf_id_share span.google {background-color: #c25234;}
+#sf_id_share span.twitter:hover {background-color: #008ABE;}
+#sf_id_share span.facebook:hover {background-color: #30487A;}
+#sf_id_share span.google:hover {background-color: #9B422A;}
+#sf_id_share span:hover { cursor:pointer;}
+.b-share .b-share-btn__wrap a img{height:24px;width:24px;border-radius:3px;}
+.b-share .b-share-btn__wrap a{height:24px;width:24px;}
+.yashare-auto-init .b-share{padding: 1px 2px 1px 4px!important;}
+span #img-t { background-image:url('/amon/social/img/share.png'); background-position: 1px -45px;}
+span #img-f { background-image:url('/amon/social/img/share.png'); background-position: 1px -1px;}
+span #img-g { background-image:url('/amon/social/img/share.png'); background-position:0 -85px;}
+@media screen and (min-width:768px){
+	.is_mobile{display:none !important;}
+	}
+@media screen and (max-width:768px){
+	#sf_id_share span {height:24px;width:24px; border-radius: 3px; display:block; float:left; margin-right: 5px;}
+	span #img-t { background-image:url('/amon/social/img/share_kecil.png'); background-position: 0px -85px;}
+	span #img-f { background-image:url('/amon/social/img/share_kecil.png'); background-position: 0px 0px;}
+	span #img-g { background-image:url('/amon/social/img/share_kecil.png'); background-position: 0px -145px;}
+}
+</style>
+<div id="sf_id_share" >
+<span class="twitter" onClick="javascript:var title = document.getElementsByTagName('title')[0].innerHTML;
+window.open('https://twitter.com/intent/tweet?text='+  title +'&url=http%3A%2F%2Fwww.seputarforex.com%2Fsaham%2Fkompas_100%2F','twitter','resizable,top=250,left=500,height=350,width=600');"><span id="img-t"></span></span>
+<span class="facebook" onClick="window.open('https://facebook.com/sharer.php?u=http%3A%2F%2Fwww.seputarforex.com%2Fsaham%2Fkompas_100%2F','facebook','resizable,top=250,left=500,height=350,width=600');"><span id="img-f"></span></span>
+<span class="google" onClick="window.open('https://plus.google.com/share?url=http%3A%2F%2Fwww.seputarforex.com%2Fsaham%2Fkompas_100%2F','google+','resizable,top=250,left=500,height=350,width=600');"><span id="img-g"></span></span>
+</div>
+
+<script>
+(function(){
+  var sflshare = '<span id="sf_id_share_link" onClick="sf_show_share();" > Share This</span>';
+  $('#page_id_time_author').append(sflshare);
+ })();
+
+function sf_show_share(){
+  $('#sf_id_share_link').hide();
+  $('#sf_id_share').show();
+ }
+</script>
+<div style="clear:both;"></div>
+<div id="content">
+
+
+
+<table width="100%"  border="0" cellpadding="6" cellspacing="0" bgcolor="#F7F7F7">
+	<tr bgcolor="#aaaaaa">
+		<td width="5%" nowrap="nowrap"><strong>No</strong></td>
+		<td width="8%" nowrap="nowrap"><strong>Kode</strong></td>
+		<td width="43%" nowrap="nowrap"><strong>Nama Emiten</strong></td>
+		<td width="12%" nowrap="nowrap"><strong>Sektor</strong></td>
+		<td width="16%" nowrap="nowrap" style="text-align:right; "><strong>Harga</strong></td>
+		<td width="10%" nowrap="nowrap" style="text-align:right; "><strong>%</strong></td>
+		<td width="6%" nowrap="nowrap" style="text-align:right; ">&nbsp;</td>
+	</tr>
+	<tr valign="top" bgcolor="#FFFFFF">
+		<td>1</td>
+		<td><a href="/saham/grafik/harga.php?kode=AALI" title="lihat grafik AALI">AALI</a></td>
+		<td>Astra Agro Lestari Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; color:#006600;">17,050</td>
+		<td style="text-align:right; color:#006600;">0.89%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=aali" title="download data historis AALI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>2</td>
+		<td><a href="/saham/grafik/harga.php?kode=ACES" title="lihat grafik ACES">ACES</a></td>
+		<td>Ace Hardware Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">810</td>
+		<td style="text-align:right; color:#E1371A;">-2.41%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=aces" title="download data historis ACES"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>3</td>
+		<td><a href="/saham/grafik/harga.php?kode=ADHI" title="lihat grafik ADHI">ADHI</a></td>
+		<td>Adhi Karya (Persero) Tbk </td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#006600;">2,090</td>
+		<td style="text-align:right; color:#006600;">0.48%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=adhi" title="download data historis ADHI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>4</td>
+		<td><a href="/saham/grafik/harga.php?kode=ADRO" title="lihat grafik ADRO">ADRO</a></td>
+		<td>Adaro Energy Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#E1371A;">1,670</td>
+		<td style="text-align:right; color:#E1371A;">-1.18%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=adro" title="download data historis ADRO"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>5</td>
+		<td><a href="/saham/grafik/harga.php?kode=AISA" title="lihat grafik AISA">AISA</a></td>
+		<td>Tiga Pilar Sejahtera Food Tbk.</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#E1371A;">1,950</td>
+		<td style="text-align:right; color:#E1371A;">-2.01%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=aisa" title="download data historis AISA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>6</td>
+		<td><a href="/saham/grafik/harga.php?kode=AKRA" title="lihat grafik AKRA">AKRA</a></td>
+		<td>AKR Corporindo Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; ">6,300</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=akra" title="download data historis AKRA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>7</td>
+		<td><a href="/saham/grafik/harga.php?kode=ANTM" title="lihat grafik ANTM">ANTM</a></td>
+		<td>Aneka Tambang (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#006600;">895</td>
+		<td style="text-align:right; color:#006600;">1.70%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=antm" title="download data historis ANTM"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>8</td>
+		<td><a href="/saham/grafik/harga.php?kode=APLN" title="lihat grafik APLN">APLN</a></td>
+		<td>Agung Podomoro Land Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; ">232</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=apln" title="download data historis APLN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>9</td>
+		<td><a href="/saham/grafik/harga.php?kode=ASII" title="lihat grafik ASII">ASII</a></td>
+		<td>Astra International Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=misc-ind" title="lihat grafik MISC-IND">MISC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">7,750</td>
+		<td style="text-align:right; color:#E1371A;">-0.32%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=asii" title="download data historis ASII"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>10</td>
+		<td><a href="/saham/grafik/harga.php?kode=ASRI" title="lihat grafik ASRI">ASRI</a></td>
+		<td>Alam Sutera Realty Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">370</td>
+		<td style="text-align:right; color:#E1371A;">-1.60%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=asri" title="download data historis ASRI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>11</td>
+		<td><a href="/saham/grafik/harga.php?kode=BBCA" title="lihat grafik BBCA">BBCA</a></td>
+		<td>Bank Central Asia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#006600;">14,775</td>
+		<td style="text-align:right; color:#006600;">0.17%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bbca" title="download data historis BBCA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>12</td>
+		<td><a href="/saham/grafik/harga.php?kode=BBNI" title="lihat grafik BBNI">BBNI</a></td>
+		<td>Bank Negara Indonesia (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#E1371A;">5,400</td>
+		<td style="text-align:right; color:#E1371A;">-1.37%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bbni" title="download data historis BBNI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>13</td>
+		<td><a href="/saham/grafik/harga.php?kode=BBRI" title="lihat grafik BBRI">BBRI</a></td>
+		<td>Bank Rakyat Indonesia (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#E1371A;">11,400</td>
+		<td style="text-align:right; color:#E1371A;">-0.87%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bbri" title="download data historis BBRI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>14</td>
+		<td><a href="/saham/grafik/harga.php?kode=BBTN" title="lihat grafik BBTN">BBTN</a></td>
+		<td>Bank Tabungan Negara (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#E1371A;">1,715</td>
+		<td style="text-align:right; color:#E1371A;">-0.87%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bbtn" title="download data historis BBTN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>15</td>
+		<td><a href="/saham/grafik/harga.php?kode=BCIP" title="lihat grafik BCIP">BCIP</a></td>
+		<td>Bumi Citra Permai Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">186</td>
+		<td style="text-align:right; color:#E1371A;">-9.71%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bcip" title="download data historis BCIP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>16</td>
+		<td><a href="/saham/grafik/harga.php?kode=BDMN" title="lihat grafik BDMN">BDMN</a></td>
+		<td>Bank Danamon Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#006600;">3,390</td>
+		<td style="text-align:right; color:#006600;">1.19%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bdmn" title="download data historis BDMN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>17</td>
+		<td><a href="/saham/grafik/harga.php?kode=BEST" title="lihat grafik BEST">BEST</a></td>
+		<td>Bekasi Fajar Industrial Estate Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#006600;">270</td>
+		<td style="text-align:right; color:#006600;">0.75%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=best" title="download data historis BEST"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>18</td>
+		<td><a href="/saham/grafik/harga.php?kode=BHIT" title="lihat grafik BHIT">BHIT</a></td>
+		<td>MNC Investama Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">138</td>
+		<td style="text-align:right; color:#E1371A;">-0.72%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bhit" title="download data historis BHIT"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>19</td>
+		<td><a href="/saham/grafik/harga.php?kode=BIRD" title="lihat grafik BIRD">BIRD</a></td>
+		<td>Blue Bird Tbk.</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">2,890</td>
+		<td style="text-align:right; color:#E1371A;">-0.69%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bird" title="download data historis BIRD"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>20</td>
+		<td><a href="/saham/grafik/harga.php?kode=BJBR" title="lihat grafik BJBR">BJBR</a></td>
+		<td>Bank Pembangunan Daerah Jawa Barat dan Banten Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#006600;">2,400</td>
+		<td style="text-align:right; color:#006600;">9.09%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bjbr" title="download data historis BJBR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>21</td>
+		<td><a href="/saham/grafik/harga.php?kode=BJTM" title="lihat grafik BJTM">BJTM</a></td>
+		<td>Bank Pembangunan Daerah Jawa Timur Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#006600;">580</td>
+		<td style="text-align:right; color:#006600;">2.65%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bjtm" title="download data historis BJTM"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>22</td>
+		<td><a href="/saham/grafik/harga.php?kode=BKSL" title="lihat grafik BKSL">BKSL</a></td>
+		<td>Sentul City Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; ">92</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bksl" title="download data historis BKSL"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>23</td>
+		<td><a href="/saham/grafik/harga.php?kode=BMRI" title="lihat grafik BMRI">BMRI</a></td>
+		<td>Bank Mandiri (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#E1371A;">10,800</td>
+		<td style="text-align:right; color:#E1371A;">-0.69%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bmri" title="download data historis BMRI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>24</td>
+		<td><a href="/saham/grafik/harga.php?kode=BMTR" title="lihat grafik BMTR">BMTR</a></td>
+		<td>Global Mediacom Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">600</td>
+		<td style="text-align:right; color:#E1371A;">-1.64%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bmtr" title="download data historis BMTR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>25</td>
+		<td><a href="/saham/grafik/harga.php?kode=BSDE" title="lihat grafik BSDE">BSDE</a></td>
+		<td>Bumi Serpong Damai Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">1,750</td>
+		<td style="text-align:right; color:#E1371A;">-1.13%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bsde" title="download data historis BSDE"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>26</td>
+		<td><a href="/saham/grafik/harga.php?kode=BUMI" title="lihat grafik BUMI">BUMI</a></td>
+		<td>Bumi Resources Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#E1371A;">278</td>
+		<td style="text-align:right; color:#E1371A;">-1.42%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bumi" title="download data historis BUMI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>27</td>
+		<td><a href="/saham/grafik/harga.php?kode=BWPT" title="lihat grafik BWPT">BWPT</a></td>
+		<td>BW Plantation Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; color:#006600;">248</td>
+		<td style="text-align:right; color:#006600;">3.33%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=bwpt" title="download data historis BWPT"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>28</td>
+		<td><a href="/saham/grafik/harga.php?kode=CPIN" title="lihat grafik CPIN">CPIN</a></td>
+		<td>Charoen Pokphand Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" title="lihat grafik BASIC-IND">BASIC-IND</a></td>
+		<td style="text-align:right; color:#006600;">3,180</td>
+		<td style="text-align:right; color:#006600;">0.95%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=cpin" title="download data historis CPIN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>29</td>
+		<td><a href="/saham/grafik/harga.php?kode=CPRO" title="lihat grafik CPRO">CPRO</a></td>
+		<td>Central Proteinaprima Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; ">51</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=cpro" title="download data historis CPRO"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>30</td>
+		<td><a href="/saham/grafik/harga.php?kode=CTRA" title="lihat grafik CTRA">CTRA</a></td>
+		<td>Ciputra Development Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">1,350</td>
+		<td style="text-align:right; color:#E1371A;">-0.37%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=ctra" title="download data historis CTRA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>31</td>
+		<td><a href="/saham/grafik/harga.php?kode=DILD" title="lihat grafik DILD">DILD</a></td>
+		<td>Intiland Development Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#006600;">494</td>
+		<td style="text-align:right; color:#006600;">0.82%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=dild" title="download data historis DILD"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>32</td>
+		<td><a href="/saham/grafik/harga.php?kode=DSFI" title="lihat grafik DSFI">DSFI</a></td>
+		<td>Dharma Samudera Fishing Industries Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; ">165</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=dsfi" title="download data historis DSFI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>33</td>
+		<td><a href="/saham/grafik/harga.php?kode=DSNG" title="lihat grafik DSNG">DSNG</a></td>
+		<td>Dharma Satya Nusantara Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; color:#E1371A;">600</td>
+		<td style="text-align:right; color:#E1371A;">-3.23%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=dsng" title="download data historis DSNG"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>34</td>
+		<td><a href="/saham/grafik/harga.php?kode=ELSA" title="lihat grafik ELSA">ELSA</a></td>
+		<td>Elnusa Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; ">448</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=elsa" title="download data historis ELSA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>35</td>
+		<td><a href="/saham/grafik/harga.php?kode=ENRG" title="lihat grafik ENRG">ENRG</a></td>
+		<td>Energi Mega Persada Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; ">50</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=enrg" title="download data historis ENRG"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>36</td>
+		<td><a href="/saham/grafik/harga.php?kode=ERAA" title="lihat grafik ERAA">ERAA</a></td>
+		<td>Erajaya Swasembada Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">630</td>
+		<td style="text-align:right; color:#E1371A;">-1.56%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=eraa" title="download data historis ERAA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>37</td>
+		<td><a href="/saham/grafik/harga.php?kode=EXCL" title="lihat grafik EXCL">EXCL</a></td>
+		<td>XL Axiata Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">2,270</td>
+		<td style="text-align:right; color:#E1371A;">-2.99%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=excl" title="download data historis EXCL"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>38</td>
+		<td><a href="/saham/grafik/harga.php?kode=GGRM" title="lihat grafik GGRM">GGRM</a></td>
+		<td>Gudang Garam Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#E1371A;">66,300</td>
+		<td style="text-align:right; color:#E1371A;">-1.08%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=ggrm" title="download data historis GGRM"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>39</td>
+		<td><a href="/saham/grafik/harga.php?kode=GIAA" title="lihat grafik GIAA">GIAA</a></td>
+		<td>Garuda Indonesia (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#006600;">372</td>
+		<td style="text-align:right; color:#006600;">0.54%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=giaa" title="download data historis GIAA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>40</td>
+		<td><a href="/saham/grafik/harga.php?kode=GJTL" title="lihat grafik GJTL">GJTL</a></td>
+		<td>Gajah Tunggal Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=misc-ind" title="lihat grafik MISC-IND">MISC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">1,105</td>
+		<td style="text-align:right; color:#E1371A;">-1.34%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=gjtl" title="download data historis GJTL"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>41</td>
+		<td><a href="/saham/grafik/harga.php?kode=HMSP" title="lihat grafik HMSP">HMSP</a></td>
+		<td>HM Sampoerna Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#006600;">4,000</td>
+		<td style="text-align:right; color:#006600;">1.27%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=hmsp" title="download data historis HMSP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>42</td>
+		<td><a href="/saham/grafik/harga.php?kode=ICBP" title="lihat grafik ICBP">ICBP</a></td>
+		<td>Indofood CBP Sukses Makmur Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#E1371A;">8,700</td>
+		<td style="text-align:right; color:#E1371A;">-2.52%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=icbp" title="download data historis ICBP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>43</td>
+		<td><a href="/saham/grafik/harga.php?kode=INCO" title="lihat grafik INCO">INCO</a></td>
+		<td>Vale Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#006600;">3,250</td>
+		<td style="text-align:right; color:#006600;">0.31%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=inco" title="download data historis INCO"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>44</td>
+		<td><a href="/saham/grafik/harga.php?kode=INDF" title="lihat grafik INDF">INDF</a></td>
+		<td>Indofood Sukses Makmur Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; ">7,975</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=indf" title="download data historis INDF"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>45</td>
+		<td><a href="/saham/grafik/harga.php?kode=INTP" title="lihat grafik INTP">INTP</a></td>
+		<td>Indocement Tunggal Prakasa Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" title="lihat grafik BASIC-IND">BASIC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">16,150</td>
+		<td style="text-align:right; color:#E1371A;">-2.71%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=intp" title="download data historis INTP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>46</td>
+		<td><a href="/saham/grafik/harga.php?kode=ISAT" title="lihat grafik ISAT">ISAT</a></td>
+		<td>Indosat Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">6,200</td>
+		<td style="text-align:right; color:#E1371A;">-1.20%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=isat" title="download data historis ISAT"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>47</td>
+		<td><a href="/saham/grafik/harga.php?kode=ITMG" title="lihat grafik ITMG">ITMG</a></td>
+		<td>Indo Tambangraya Megah Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#E1371A;">17,500</td>
+		<td style="text-align:right; color:#E1371A;">-0.85%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=itmg" title="download data historis ITMG"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>48</td>
+		<td><a href="/saham/grafik/harga.php?kode=JPFA" title="lihat grafik JPFA">JPFA</a></td>
+		<td>Japfa Comfeed Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" title="lihat grafik BASIC-IND">BASIC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">1,670</td>
+		<td style="text-align:right; color:#E1371A;">-2.62%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=jpfa" title="download data historis JPFA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>49</td>
+		<td><a href="/saham/grafik/harga.php?kode=JSMR" title="lihat grafik JSMR">JSMR</a></td>
+		<td>Jasa Marga (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">4,480</td>
+		<td style="text-align:right; color:#E1371A;">-1.10%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=jsmr" title="download data historis JSMR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>50</td>
+		<td><a href="/saham/grafik/harga.php?kode=KIJA" title="lihat grafik KIJA">KIJA</a></td>
+		<td>Kawasan Industri Jababeka Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">264</td>
+		<td style="text-align:right; color:#E1371A;">-1.49%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=kija" title="download data historis KIJA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>51</td>
+		<td><a href="/saham/grafik/harga.php?kode=KLBF" title="lihat grafik KLBF">KLBF</a></td>
+		<td>Kalbe Farma Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#E1371A;">1,530</td>
+		<td style="text-align:right; color:#E1371A;">-0.33%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=klbf" title="download data historis KLBF"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>52</td>
+		<td><a href="/saham/grafik/harga.php?kode=KREN" title="lihat grafik KREN">KREN</a></td>
+		<td>Kresna Graha Sekurindo Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; ">468</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=kren" title="download data historis KREN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>53</td>
+		<td><a href="/saham/grafik/harga.php?kode=LCGP" title="lihat grafik LCGP">LCGP</a></td>
+		<td>Eureka Prima Jakarta Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">178</td>
+		<td style="text-align:right; color:#E1371A;">-1.66%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=lcgp" title="download data historis LCGP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>54</td>
+		<td><a href="/saham/grafik/harga.php?kode=LINK" title="lihat grafik LINK">LINK</a></td>
+		<td>Link Net Tbk.</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#006600;">4,950</td>
+		<td style="text-align:right; color:#006600;">2.91%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=link" title="download data historis LINK"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>55</td>
+		<td><a href="/saham/grafik/harga.php?kode=LPCK" title="lihat grafik LPCK">LPCK</a></td>
+		<td>Lippo Cikarang Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">5,275</td>
+		<td style="text-align:right; color:#E1371A;">-2.31%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=lpck" title="download data historis LPCK"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>56</td>
+		<td><a href="/saham/grafik/harga.php?kode=LPKR" title="lihat grafik LPKR">LPKR</a></td>
+		<td>Lippo Karawaci Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">740</td>
+		<td style="text-align:right; color:#E1371A;">-0.67%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=lpkr" title="download data historis LPKR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>57</td>
+		<td><a href="/saham/grafik/harga.php?kode=LPPF" title="lihat grafik LPPF">LPPF</a></td>
+		<td>Matahari Department Store Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">14,400</td>
+		<td style="text-align:right; color:#E1371A;">-0.17%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=lppf" title="download data historis LPPF"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>58</td>
+		<td><a href="/saham/grafik/harga.php?kode=LSIP" title="lihat grafik LSIP">LSIP</a></td>
+		<td>PP London Sumatra Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; color:#006600;">1,775</td>
+		<td style="text-align:right; color:#006600;">3.20%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=lsip" title="download data historis LSIP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>59</td>
+		<td><a href="/saham/grafik/harga.php?kode=MAPI" title="lihat grafik MAPI">MAPI</a></td>
+		<td>Mitra Adiperkasa Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#006600;">5,025</td>
+		<td style="text-align:right; color:#006600;">0.50%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=mapi" title="download data historis MAPI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>60</td>
+		<td><a href="/saham/grafik/harga.php?kode=MDLN" title="lihat grafik MDLN">MDLN</a></td>
+		<td>Modernland Realty Ltd Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#006600;">346</td>
+		<td style="text-align:right; color:#006600;">0.58%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=mdln" title="download data historis MDLN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>61</td>
+		<td><a href="/saham/grafik/harga.php?kode=META" title="lihat grafik META">META</a></td>
+		<td>Nusantara Infrastructure Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#006600;">130</td>
+		<td style="text-align:right; color:#006600;">1.56%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=meta" title="download data historis META"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>62</td>
+		<td><a href="/saham/grafik/harga.php?kode=MIKA" title="lihat grafik MIKA">MIKA</a></td>
+		<td>Mitra Keluarga Karyasehat Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">2,500</td>
+		<td style="text-align:right; color:#E1371A;">-0.79%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=mika" title="download data historis MIKA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>63</td>
+		<td><a href="/saham/grafik/harga.php?kode=MLPL" title="lihat grafik MLPL">MLPL</a></td>
+		<td>Multipolar Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">356</td>
+		<td style="text-align:right; color:#E1371A;">-1.11%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=mlpl" title="download data historis MLPL"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>64</td>
+		<td><a href="/saham/grafik/harga.php?kode=MNCN" title="lihat grafik MNCN">MNCN</a></td>
+		<td>Media Nusantara Citra Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#006600;">1,900</td>
+		<td style="text-align:right; color:#006600;">4.11%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=mncn" title="download data historis MNCN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>65</td>
+		<td><a href="/saham/grafik/harga.php?kode=MPPA" title="lihat grafik MPPA">MPPA</a></td>
+		<td>Matahari Putra Prima Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">1,660</td>
+		<td style="text-align:right; color:#E1371A;">-1.19%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=mppa" title="download data historis MPPA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>66</td>
+		<td><a href="/saham/grafik/harga.php?kode=MYRX" title="lihat grafik MYRX">MYRX</a></td>
+		<td>Hanson International Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#006600;">188</td>
+		<td style="text-align:right; color:#006600;">11.24%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=myrx" title="download data historis MYRX"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>67</td>
+		<td><a href="/saham/grafik/harga.php?kode=NIRO" title="lihat grafik NIRO">NIRO</a></td>
+		<td>Nirvana Development Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; ">93</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=niro" title="download data historis NIRO"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>68</td>
+		<td><a href="/saham/grafik/harga.php?kode=PBRX" title="lihat grafik PBRX">PBRX</a></td>
+		<td>Pan Brothers Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=misc-ind" title="lihat grafik MISC-IND">MISC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">434</td>
+		<td style="text-align:right; color:#E1371A;">-0.91%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=pbrx" title="download data historis PBRX"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>69</td>
+		<td><a href="/saham/grafik/harga.php?kode=PGAS" title="lihat grafik PGAS">PGAS</a></td>
+		<td>Perusahaan Gas Negara (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">2,800</td>
+		<td style="text-align:right; color:#E1371A;">-2.78%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=pgas" title="download data historis PGAS"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>70</td>
+		<td><a href="/saham/grafik/harga.php?kode=PLAS" title="lihat grafik PLAS">PLAS</a></td>
+		<td>Polaris Investama Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; ">406</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=plas" title="download data historis PLAS"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>71</td>
+		<td><a href="/saham/grafik/harga.php?kode=PNBN" title="lihat grafik PNBN">PNBN</a></td>
+		<td>Bank Pan Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#E1371A;">735</td>
+		<td style="text-align:right; color:#E1371A;">-0.68%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=pnbn" title="download data historis PNBN"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>72</td>
+		<td><a href="/saham/grafik/harga.php?kode=PNLF" title="lihat grafik PNLF">PNLF</a></td>
+		<td>Panin Financial Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=finance" title="lihat grafik FINANCE">FINANCE</a></td>
+		<td style="text-align:right; color:#006600;">174</td>
+		<td style="text-align:right; color:#006600;">0.58%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=pnlf" title="download data historis PNLF"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>73</td>
+		<td><a href="/saham/grafik/harga.php?kode=PTBA" title="lihat grafik PTBA">PTBA</a></td>
+		<td>Tambang Batubara Bukit Asam (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#006600;">12,700</td>
+		<td style="text-align:right; color:#006600;">0.79%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=ptba" title="download data historis PTBA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>74</td>
+		<td><a href="/saham/grafik/harga.php?kode=PTPP" title="lihat grafik PTPP">PTPP</a></td>
+		<td>PP (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">3,820</td>
+		<td style="text-align:right; color:#E1371A;">-1.80%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=ptpp" title="download data historis PTPP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>75</td>
+		<td><a href="/saham/grafik/harga.php?kode=PWON" title="lihat grafik PWON">PWON</a></td>
+		<td>Pakuwon Jati Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">590</td>
+		<td style="text-align:right; color:#E1371A;">-4.84%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=pwon" title="download data historis PWON"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>76</td>
+		<td><a href="/saham/grafik/harga.php?kode=RALS" title="lihat grafik RALS">RALS</a></td>
+		<td>Ramayana Lestari Sentosa Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">1,095</td>
+		<td style="text-align:right; color:#E1371A;">-3.95%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=rals" title="download data historis RALS"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>77</td>
+		<td><a href="/saham/grafik/harga.php?kode=SCMA" title="lihat grafik SCMA">SCMA</a></td>
+		<td>Surya Citra Media Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">2,540</td>
+		<td style="text-align:right; color:#E1371A;">-0.39%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=scma" title="download data historis SCMA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>78</td>
+		<td><a href="/saham/grafik/harga.php?kode=SIDO" title="lihat grafik SIDO">SIDO</a></td>
+		<td>Industri Jamu dan Farmasi Sido Muncul Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#E1371A;">540</td>
+		<td style="text-align:right; color:#E1371A;">-0.92%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=sido" title="download data historis SIDO"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>79</td>
+		<td><a href="/saham/grafik/harga.php?kode=SILO" title="lihat grafik SILO">SILO</a></td>
+		<td>Siloam International Hospitals Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#E1371A;">10,200</td>
+		<td style="text-align:right; color:#E1371A;">-1.45%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=silo" title="download data historis SILO"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>80</td>
+		<td><a href="/saham/grafik/harga.php?kode=SIMP" title="lihat grafik SIMP">SIMP</a></td>
+		<td>Salim Ivomas Pratama Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; ">505</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=simp" title="download data historis SIMP"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>81</td>
+		<td><a href="/saham/grafik/harga.php?kode=SMCB" title="lihat grafik SMCB">SMCB</a></td>
+		<td>Holcim Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" title="lihat grafik BASIC-IND">BASIC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">905</td>
+		<td style="text-align:right; color:#E1371A;">-0.55%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=smcb" title="download data historis SMCB"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>82</td>
+		<td><a href="/saham/grafik/harga.php?kode=SMGR" title="lihat grafik SMGR">SMGR</a></td>
+		<td>Semen Indonesia (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" title="lihat grafik BASIC-IND">BASIC-IND</a></td>
+		<td style="text-align:right; color:#E1371A;">8,975</td>
+		<td style="text-align:right; color:#E1371A;">-3.49%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=smgr" title="download data historis SMGR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>83</td>
+		<td><a href="/saham/grafik/harga.php?kode=SMRA" title="lihat grafik SMRA">SMRA</a></td>
+		<td>Summarecon Agung Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">1,395</td>
+		<td style="text-align:right; color:#E1371A;">-1.76%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=smra" title="download data historis SMRA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>84</td>
+		<td><a href="/saham/grafik/harga.php?kode=SMRU" title="lihat grafik SMRU">SMRU</a></td>
+		<td>SMR Utama Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; ">380</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=smru" title="download data historis SMRU"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>85</td>
+		<td><a href="/saham/grafik/harga.php?kode=SOCI" title="lihat grafik SOCI">SOCI</a></td>
+		<td>Soechi Lines Tbk.</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">364</td>
+		<td style="text-align:right; color:#E1371A;">-1.62%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=soci" title="download data historis SOCI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>86</td>
+		<td><a href="/saham/grafik/harga.php?kode=SRIL" title="lihat grafik SRIL">SRIL</a></td>
+		<td>Sri Rejeki Isman Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=misc-ind" title="lihat grafik MISC-IND">MISC-IND</a></td>
+		<td style="text-align:right; ">232</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=sril" title="download data historis SRIL"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>87</td>
+		<td><a href="/saham/grafik/harga.php?kode=SSIA" title="lihat grafik SSIA">SSIA</a></td>
+		<td>Surya Semesta Internusa Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">486</td>
+		<td style="text-align:right; color:#E1371A;">-1.22%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=ssia" title="download data historis SSIA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>88</td>
+		<td><a href="/saham/grafik/harga.php?kode=SSMS" title="lihat grafik SSMS">SSMS</a></td>
+		<td>Sawit Sumbermas Sarana Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=agri" title="lihat grafik AGRI">AGRI</a></td>
+		<td style="text-align:right; ">1,375</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=ssms" title="download data historis SSMS"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>89</td>
+		<td><a href="/saham/grafik/harga.php?kode=SUGI" title="lihat grafik SUGI">SUGI</a></td>
+		<td>Sugih Energy Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; ">114</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=sugi" title="download data historis SUGI"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>90</td>
+		<td><a href="/saham/grafik/harga.php?kode=TARA" title="lihat grafik TARA">TARA</a></td>
+		<td>Sitara Propertindo Tbk.</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; ">650</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=tara" title="download data historis TARA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>91</td>
+		<td><a href="/saham/grafik/harga.php?kode=TBIG" title="lihat grafik TBIG">TBIG</a></td>
+		<td>Tower Bersama Infrastructure Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; ">5,150</td>
+		<td style="text-align:right; ">0.00%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=tbig" title="download data historis TBIG"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>92</td>
+		<td><a href="/saham/grafik/harga.php?kode=TINS" title="lihat grafik TINS">TINS</a></td>
+		<td>Timah (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=mining" title="lihat grafik MINING">MINING</a></td>
+		<td style="text-align:right; color:#E1371A;">1,140</td>
+		<td style="text-align:right; color:#E1371A;">-2.98%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=tins" title="download data historis TINS"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>93</td>
+		<td><a href="/saham/grafik/harga.php?kode=TLKM" title="lihat grafik TLKM">TLKM</a></td>
+		<td>Telekomunikasi Indonesia (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#E1371A;">3,910</td>
+		<td style="text-align:right; color:#E1371A;">-0.26%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=tlkm" title="download data historis TLKM"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>94</td>
+		<td><a href="/saham/grafik/harga.php?kode=TRAM" title="lihat grafik TRAM">TRAM</a></td>
+		<td>Trada Maritime Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=infrastruc" title="lihat grafik INFRASTRUC">INFRASTRUC</a></td>
+		<td style="text-align:right; color:#006600;">191</td>
+		<td style="text-align:right; color:#006600;">11.05%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=tram" title="download data historis TRAM"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>95</td>
+		<td><a href="/saham/grafik/harga.php?kode=UNTR" title="lihat grafik UNTR">UNTR</a></td>
+		<td>United Tractors Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#006600;">22,550</td>
+		<td style="text-align:right; color:#006600;">1.01%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=untr" title="download data historis UNTR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>96</td>
+		<td><a href="/saham/grafik/harga.php?kode=UNVR" title="lihat grafik UNVR">UNVR</a></td>
+		<td>Unilever Indonesia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=consumer" title="lihat grafik CONSUMER">CONSUMER</a></td>
+		<td style="text-align:right; color:#006600;">40,150</td>
+		<td style="text-align:right; color:#006600;">0.25%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=unvr" title="download data historis UNVR"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>97</td>
+		<td><a href="/saham/grafik/harga.php?kode=VIVA" title="lihat grafik VIVA">VIVA</a></td>
+		<td>Visi Media Asia Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=trade" title="lihat grafik TRADE">TRADE</a></td>
+		<td style="text-align:right; color:#006600;">290</td>
+		<td style="text-align:right; color:#006600;">6.62%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=viva" title="download data historis VIVA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>98</td>
+		<td><a href="/saham/grafik/harga.php?kode=WIKA" title="lihat grafik WIKA">WIKA</a></td>
+		<td>Wijaya Karya (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#006600;">2,530</td>
+		<td style="text-align:right; color:#006600;">4.12%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=wika" title="download data historis WIKA"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#FFFFFF">
+		<td>99</td>
+		<td><a href="/saham/grafik/harga.php?kode=WSKT" title="lihat grafik WSKT">WSKT</a></td>
+		<td>Waskita Karya (Persero) Tbk</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=property" title="lihat grafik PROPERTY">PROPERTY</a></td>
+		<td style="text-align:right; color:#E1371A;">2,520</td>
+		<td style="text-align:right; color:#E1371A;">-0.40%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=wskt" title="download data historis WSKT"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+		<tr valign="top" bgcolor="#EEEEEE">
+		<td>100</td>
+		<td><a href="/saham/grafik/harga.php?kode=WTON" title="lihat grafik WTON">WTON</a></td>
+		<td>Wijaya Karya Beton Tbk.</td>
+		<td><a href="/saham/grafik/indeks_bei/harga.php?kode=basic-ind" title="lihat grafik BASIC-IND">BASIC-IND</a></td>
+		<td style="text-align:right; color:#006600;">850</td>
+		<td style="text-align:right; color:#006600;">1.19%</td>
+		<td style="text-align:right; "><a href="/saham/data_historis/index.php?kode=wton" title="download data historis WTON"><img src="/image/download.png" width="20px" height="16px" ></a></td>
+	</tr>
+	</table>
+
+<div style="padding:10px; border:1px solid #eeeeee; background-color:#FFFFFF; margin:0px 0px 10px 0px; ">
+Lihat informasi dan grafik harga indeks <a href="/saham/grafik/indeks_bei/harga.php?kode=kompas100">KOMPAS100</a>
+</div>
+
+
+</div>
+
+</article>
+
+    
+
+
+
+
+<style>
+.page_fluid_div_full { 
+  margin:0px 0px 30px 0px; 
+  border:1px solid #cccccc;
+}
+
+.page_fluid_div_full .box_content{  padding:8px 10px 10px 10px;  }
+.page_fluid_div_full img { width:34%; float:left; height:auto; padding:0px 2% 0px 0px;   }
+.page_fluid_div_full h4 {  width:64%; float:left; line-height:normal;  }
+.page_fluid_div_full .box_footer_time_author{ color:#aaaaaa;  font-size:80%; }
+
+
+@media screen and (min-width: 1100px) {
+.page_fluid_div_full img {  width:26%; }
+.page_fluid_div_full h4 {  width:72%; }
+}
+
+
+</style>
+
+
+<div class="page_fluid_div_full">
+<div style="height:4px; background-color:#009900; color:#000000  "></div>
+<div class="box_content">
+
+<a href="/artikel/saham/lihat.php?id=276342&title=5_hal_penting_tentang_right_issue_di_pasar_modal" alt="5 Hal Penting Tentang Right Issue Di Pasar Modal" title="5 Hal Penting Tentang Right Issue Di Pasar Modal"><img src="/sf2016materi/thumbnail/2016-11/5-hal-penting-tentang-right-issue-dalam-pasar-modal-276342-27355.jpeg" alt="5 Hal Penting Tentang Right Issue Di Pasar Modal" title="5 Hal Penting Tentang Right Issue Di Pasar Modal" /></a>
+
+<h4><a class="a_in_box" href="/artikel/saham/lihat.php?id=276342&title=5_hal_penting_tentang_right_issue_di_pasar_modal" alt="5 Hal Penting Tentang Right Issue Di Pasar Modal" title="5 Hal Penting Tentang Right Issue Di Pasar Modal">5 Hal Penting Tentang Right Issue Di Pasar Modal</a></h4>
+
+
+
+  <div class="box_footer_time_author" >
+  23 NOV 2016 
+ &nbsp; View: 813 &nbsp; By: Utari 
+  
+    &nbsp;
+        Artikel Saham     </div>
+
+
+
+ 
+Right Issue di pasar modal bisa merugikan maupun menguntungkan investor. Kuncinya ada pada kelima hal penting berikut ini.
+
+</div>
+<div style="clear:both; "></div>
+</div>
+
+<div style="clear:both; "></div>
+
+
+
+
+<style>
+.page_fluid_div_full { 
+  margin:0px 0px 30px 0px; 
+  border:1px solid #cccccc;
+}
+
+.page_fluid_div_full .box_content{  padding:8px 10px 10px 10px;  }
+.page_fluid_div_full img { width:34%; float:left; height:auto; padding:0px 2% 0px 0px;   }
+.page_fluid_div_full h4 {  width:64%; float:left; line-height:normal;  }
+.page_fluid_div_full .box_footer_time_author{ color:#aaaaaa;  font-size:80%; }
+
+
+@media screen and (min-width: 1100px) {
+.page_fluid_div_full img {  width:26%; }
+.page_fluid_div_full h4 {  width:72%; }
+}
+
+
+</style>
+
+
+<div class="page_fluid_div_full">
+<div style="height:4px; background-color:#FF9900; color:#000000  "></div>
+<div class="box_content">
+
+<a href="/analisa/lihat.php?id=276694&title=ulasan_saham_16_desember_implikasi_hasil_the_fed_terhadap_ihsg" alt="Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG" title="Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG"><img src="/sf2016materi/thumbnail/2016-12/ulasan-saham-16-desember-implikasi-hasil-the-fed-terhadap-ihsg-276694-27500.png" alt="Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG" title="Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG" /></a>
+
+<h4><a class="a_in_box" href="/analisa/lihat.php?id=276694&title=ulasan_saham_16_desember_implikasi_hasil_the_fed_terhadap_ihsg" alt="Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG" title="Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG">Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG</a></h4>
+
+
+
+  <div class="box_footer_time_author" >
+  16 DEC 2016 
+ &nbsp; View: 108 &nbsp; By: Aditya Putra 
+  
+    &nbsp;
+        Analisa Saham Teknikal Harian     </div>
+
+
+
+ 
+Bagaimana IHSG akan bergerak, terutama dengan asumsi kenaikan suku bunga The Fed yang cukup agresif di tahun depan? Lalu, dari sisi teknikal, di level berapakah IHSG akan bertahan?
+
+</div>
+<div style="clear:both; "></div>
+</div>
+
+<div style="clear:both; "></div>
+
+
+
+<div style="margin:0px 0px 30px 0px; ">
+<div style="height:4px; background-color:#0000FF; margin:0px 0px 8px 0px;  "></div>
+
+<strong>
+<a href="/amon/halaman/peluang_trading_forex/" >Anda belum mengenal 'Trading Forex Online' ?</a>
+</strong><br />
+ Dengan kapitalasi pasar terbesar saat ini, serta pergerakan sd 100-250 pips per hari. Artinya apa? Hanya dengan modal 500$ an, Anda berpotensi mendapat 1-10$.
+ Trading forex online mungkin bisa Anda manfaatkan untuk  untuk mendapat
+ penghasilan tambahan.  
+ Anda bisa melakukan trading forex online dengan santai
+  lewat pc, tabled, android, dari rumah atau dimanapun,
+ serta dengan modal yg tidak terlalu besar.
+ <strong> <a href="/amon/halaman/peluang_trading_forex/" >Penasaran</a></strong>
+</div><script type="text/javascript" src="/amon/komentar/nicedit/nicEdit.js"></script>
+<script type="text/javascript" src="/amon/komentar/2015_js.js"></script>
+<style>
+.sf_kom_isi_content ul { padding:0;  list-style: disc inside none; }
+.sf_kom_isi_content ul li {  margin:0; padding:0;  }
+</style>
+
+<div id="sf_id_komentar_manual_2015">
+
+
+
+
+<ul class="sfgenkom_main1">
+
+</ul>
+
+<div id="gerak"></div>
+<div style="clear:both; "></div>
+<div style="border-top:4px solid #6666FF;max-width:100%; padding:14px; 
+margin:0px 0px 30px 0px;  background-color:#f7f7f7; ">
+
+<form action="/amon/komentar/2015_kotak_kirim_post.php" method="post" enctype="multipart/form-data" target="sf_frame_gkomp" 
+onsubmit="return gkompcheck();" id="sf_idform_komentar">
+<input type="hidden" name="sf_p1" value="451525120122016031645491206124515252016160345" />
+<input type="hidden" name="sf_p2" value="ZMCitMCmZqSnnaWutKuQaWdooZ6Zsrl6z6Gn" />
+    
+	
+<div id="sfkomidrep" style=" display:none; margin:0px 0px 20px 0px;
+ border-radius:6px; border:1px dashed #dddddd; background-color:#FFFFFF;
+ padding:8px 8px 0px 8px; "></div>
+ <div style="background-color:#FFFFFF; width:100%; margin:0px 0px 6px 0px;  ">
+ <textarea id="sf_gkomp_que" name="from_komentar_umum_isi"  style="  height:60px; border:0px; width:99.8%; "></textarea>
+ </div>
+    <div id="id_tanya_profil" style="margin:0px 0px 8px 0px; display:none;   ">
+      <input id="sf_gkomp_nama" name="from_komentar_umum_nama" onFocus="sf_gkomp_klik_nama();" type="text" value="nama anda"   maxlength="60" style=" color:#999999; width:220px; margin:0px 0px 6px 0px;  "/>
+      &nbsp;&nbsp;&nbsp;
+      <input id="sf_gkomp_email" name="from_komentar_umum_email" onFocus="sf_gkomp_klik_email();" type="text" value="email anda [optional]"   maxlength="80" style=" color:#999999; width:220px; "/>
+      <span onClick="sf_gkomp_klik_date();" style=" margin:0px 0px 0px 20px; width:50px; cursor:crosshair; ">&nbsp;&nbsp;</span>
+      <input id="sf_gkomp_d" name="from_komentar_umum_d" type="text" 
+  value="2016-12-16" 
+  style=" color:#999999; width:90px; border:1px solid #dddddd; padding:4px; display:none; "/>
+    </div>
+    <input type="submit" name="sf_submit_tanya" value="K I R I M  K O M E N T A R" />
+    <br>
+    <iframe src=""  name="sf_frame_gkomp" id="id_frame_gkomp" scrolling="no" 
+ frameborder="0" style=" width:90%; height:18px; 
+overflow: hidden;  padding:0px; display:none; margin:4px 0px 0px 0px;  "> </iframe>
+    <input type="hidden" id="sf_id_kr1"  name="sfr1" value="0"  />
+    <input type="hidden" id="sf_id_kr2"  name="sfr2" value="0"  />
+    <input type="hidden" id="sf_id_kr3"  name="sfr3" value="0"  />
+    <input type="hidden" id="sf_id_kr4"  name="sfr4" value="0"  />
+  </form>
+</div>
+</div>
+
+<script>
+ $(document).ready(function() {
+   sftogglekom();
+     });
+</script>
+
+<section id="comment_facebook">
+<div class="fb-comments" data-href="http://www.seputarforex.com/saham/kompas_100/"
+ data-width="100%" data-numposts="10"
+ data-colorscheme="light" data-order-by="reverse_time" >
+</div>
+<div id="sf_id_fb_post"></div>
+</section>
+
+
+
+</div>
+
+<div id="container_right" >
+    
+<div id="sf_id_banner_300">
+<div class="banner_300_ads" >
+
+
+
+
+
+
+
+<a href="https://www.ifxid.com/forex_bonus.php?x=sptfx" rel="nofollow" 
+target="_blank" style="outline: none">
+<img src="/amon/ads2013/pos_300_250_file/insta_follow.jpg" alt="" width="300" height="250"  border="0" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="banner_300_ads" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.ifxid.com/?x=sptfx" rel="nofollow" 
+target="_blank" style="outline: none">
+<img src="/amon/ads2013/pos_300_250_file/insta_metal_trading.jpg" alt="" width="300" height="250"  border="0" />
+</a>
+
+
+
+
+
+
+
+
+</div>
+</div>
+<div id="sf_id_banner_300_top"></div>
+
+
+    
+<div class="section_kanan_link_text">
+<div style="height:4px; background-color:#996633;  "></div>
+<div class="pad_8">
+<h2>Saham BEI</h2>
+<ul>
+
+<li><a href="http://www.seputarforex.com/saham/" >Informasi Pasar Saham</a></li>
+<li><a href="http://www.seputarforex.com/saham/grafik/indeks_bei/harga.php?kode=composite" >Indeks BEI (IHSG)</a></li>
+<li><a href="http://www.seputarforex.com/saham/aktif/" >Saham Aktif Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/saham/untung/" >Saham Untung Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/saham/rugi/" >Saham Rugi Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/berita/saham/" >Berita Saham BEI</a></li>
+<li><a href="http://www.seputarforex.com/analisa/saham/" >Analisa Saham</a></li>
+<li><a href="http://www.seputarforex.com/analisa/saham/teknikal/" >Analisa Teknikal</a></li>
+<li><a href="http://www.seputarforex.com/analisa/saham/fundamental/" >Analisa Fundamental</a></li>
+
+<li><a href="http://www.seputarforex.com/artikel/saham/" >Artikel Saham</a></li>
+
+
+<li><a href="http://www.seputarforex.com/saham/lq_45/" >Daftar Saham LQ45</a></li>
+<li><a href="http://www.seputarforex.com/saham/kompas_100/" >Daftar  Kompas 100</a></li>
+<li><a href="http://www.seputarforex.com/saham/pefindo_25/" >Daftar  Pefindo 25</a></li>
+<li><a href="http://www.seputarforex.com/saham/daftar_broker_online/" >Daftar Broker  Online</a></li>
+<li><a href="http://www.seputarforex.com/saham/daftar_emiten/" >Daftar Emiten</a></li>
+
+<li><a href="http://www.seputarforex.com/widget/" >Widget Saham/Forex</a></li>
+<li><a href="http://www.seputarforex.com/saham/monitoring/" >Monitoring Saham</a></li>
+<li><a href="http://www.seputarforex.com/saham/watchlist/" >Watchlist</a></li>
+<li><a href="http://www.seputarforex.com/saham/data_historis/" >Download Data Historis</a></li>
+<li><a href="http://www.seputarforex.com/saham/performa_sektor/" >Performa Sektor</a></li>
+<li><a href="http://www.seputarforex.com/saham/sektor/tabel_naik_turun_harga.php" >Tabel Naik Turun Emiten</a></li>
+<li class="bord_none"><a href="http://www.seputarforex.com/saham/ekonomi/" >Ulasan Ekonomi</a></li>
+
+
+</ul>
+</div>
+</div>
+
+    
+
+
+<div class="page_box_right">
+<h2>IHSG BEI</h2>
+<div class="page_box_pad_8">
+
+
+
+<img src="http://chart.finance.yahoo.com/z?s=^JKSE&t=1d&z=s" width="286" height="180">
+</div>
+
+
+<div style="padding:4px 6px 4px 6px; ">
+
+<table  width="100%"  border="0" cellspacing="0" cellpadding="2" >
+
+      <tr >
+        <td>Last 16 DEC 15:07</td>
+        <td align="right" style="color:#FF0000; "><b>-5,240 (-0.25%)</b></td>
+    </tr>
+
+      <tr >
+        <td>High</td>
+        <td align="right">5,263</td>
+    </tr>
+
+      <tr >
+        <td>Low</td>
+        <td align="right">5,235</td>
+    </tr>
+
+
+      <tr >
+        <td>Volume</td>
+        <td align="right">103,191,114</td>
+    </tr>
+      <tr >
+        <td>Value(Juta)</td>
+        <td align="right">5,531,448</td>
+    </tr>
+
+      <tr >
+        <td>Saham Naik</td>
+        <td align="right" style="color:#009900; ">113</td>
+    </tr>
+      <tr >
+        <td>Saham Turun</td>
+        <td align="right" style="color:#FF0000; ">175</td>
+    </tr>
+
+
+  </table>	
+
+</div>
+</div>
+    
+<div class="section_kanan_link_text" style="border-top:4px solid #FFFF00; ">
+<div style="position: relative; width:100%; min-height:180px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: url('/sf2016materi/thumbnail/2016-12/ulasan-saham-16-desember-implikasi-hasil-the-fed-terhadap-ihsg-276694-27500.png'); ">
+
+  <h2 style="position: absolute; box-shadow: 1px 1px 2px #888888;
+   box-shadow: 3px 2px 2px #888888; top: 8px; left: 8px;
+     padding: 4px 4px 6px 4px; background-color: #fff; 
+	 line-height:84%; font-size: 80%;"><a href="/analisa/saham/">Analisa Saham</a></h2>
+ 
+  <div style=" color:#FFFFFF; font-weight:bold; font-size:90%; position: absolute; bottom: 0; left: 0.5em; text-shadow: 2px 0 3px #666666, 0 2px 5px #000000; " >
+	  <div style="float:left; margin-right:6px; ">
+	  16 Dec 2016	  &nbsp; By Aditya Putra	  </div>
+  	  <div style="float:left; ">
+	  <img src="/image_baru/mata-lihat.png" style="margin:1px 2px 0px 0px;" width="20" height="10" /> 
+	  108	  </div>
+  	  <div style="clear:both; "></div>
+  </div>
+</div>
+<div style="padding:8px; background-color:#dddddd; font-weight:bold; ">
+<a href="/analisa/lihat.php?id=276694&title=ulasan_saham_16_desember_implikasi_hasil_the_fed_terhadap_ihsg"  >Ulasan Saham 16 Desember: Implikasi Hasil The Fed Terhadap IHSG</a>
+</div>
+</div>
+    
+<div class="section_kanan_link_text" style="border-top:4px solid #FF33FF; ">
+<div style="position: relative; width:100%; min-height:180px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: url('/sf2016materi/thumbnail/2011-10/sf_69854_mengenal_penilaian_investasi_reksadana.jpg'); ">
+
+  <h2 style="position: absolute; box-shadow: 1px 1px 2px #888888;
+   box-shadow: 3px 2px 2px #888888; top: 8px; left: 8px;
+     padding: 4px 4px 6px 4px; background-color: #fff; 
+	 line-height:84%; font-size: 80%;"><a href="/artikel/saham/">Artikel Saham</a></h2>
+ 
+  <div style=" color:#FFFFFF; font-weight:bold; font-size:90%; position: absolute; bottom: 0; left: 0.5em; text-shadow: 2px 0 3px #666666, 0 2px 5px #000000; " >
+  <div style="float:left; margin-right:6px; ">
+  31 Oct 2011  &nbsp; By Bayu  </div>
+  <div style="float:left; ">
+  <img src="/image_baru/mata-lihat.png" style="margin:1px 2px 0px 0px;" width="20" height="10" /> 
+  7443  </div>
+  <div style="clear:both; "></div>
+  </div>
+</div>
+<div style="padding:8px; background-color:#dddddd; font-weight:bold; ">
+<a href="/artikel/saham/lihat.php?id=69854&title=mengenal_penilaian_investasi_reksadana"  >Mengenal Penilaian Investasi Reksadana</a>
+</div>
+</div>
+    
+<div class="section_kanan_link_text">
+<div style="height:4px; background-color:#66CC66;  "></div>
+<div class="pad_8">
+<h2>Potensi Trading</h2>
+<ul>
+<li class="bord_none">
+Bagaimana bisa mendapatkan
+<a href="/amon/halaman/peluang_trading_forex/"><b>income tambahan sd 100$ perhari</b></a>
+dari 'Trading Forex Online'? Bisa Anda lakukan kapanpun, dan dimanapun, Penasaran ??? 
+</li>
+</ul>
+
+</div>
+</div>
+
+
+    
+<div class="section_kanan_link_text">
+<div style="height:4px; background-color:#FF9900;  "></div>
+<div class="pad_8">
+<h2>Data & Informasi</h2>
+<ul>
+
+<li><a href="http://www.seputarforex.com/data/suku_bunga_forex/">Suku Bunga Forex</a></li>
+<li><a href="http://www.seputarforex.com/data/kurs_dollar_rupiah/">Kurs Dollar Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/data/konversi_matauang/">Tabel Konversi Mata Uang</a></li>
+<li><a href="http://www.seputarforex.com/data/suku_bunga_deposito/">Suku Bunga Bank Deposito</a></li>
+<li><a href="http://www.seputarforex.com/data/kalkulator_bunga_deposito/">Kalkulator Deposito</a></li>
+<li><a href="http://www.seputarforex.com/data/bunga_kredit_pinjaman/">Suku Bunga Kredit</a></li>
+<li><a href="http://www.seputarforex.com/data/kalkulator_kpr/">Kalkulator KPR</a></li>
+<li><a href="http://www.seputarforex.com/data/indeks_obligasi/">Indeks Obligasi Indonesia</a></li>
+<li><a href="http://www.seputarforex.com/saham/">Saham Indonesia Hari Ini</a></li>
+<li><a href="http://www.seputarforex.com/data/saham_indeks/">Indeks Saham Dunia</a></li>
+<li><a href="http://www.seputarforex.com/data/komoditas/">Harga Komoditas</a></li>
+<li><a href="http://www.seputarforex.com/data/harga_minyak/" >Harga Minyak Bumi</a></li>
+<li><a href="http://www.seputarforex.com/data/harga_emas_hari_ini/" >Harga Emas Hari Ini</a></li>
+<li class="bord_none"><a href="http://www.seputarforex.com/data/daftar_swift_code_bank_indonesia/" >Swift Code Bank</a></li>
+
+
+</ul>
+</div>
+</div>
+
+    <div id="sf_202_kanan_monitor" ></div>
+<div id="sf_202_kanan_isi" ></div> 
+<div id="sf_202_div_top"></div>
+
+
+</div>
+
+<div style="clear:both; "></div>
+</div>
+
+<div style="clear:both;"></div>
+<footer id="sf_page_footer">
+    <nav id="sf_bottom_menu_container" ></nav>
+
+
+  <section id="sf_id_disclaimer" >
+<h4>DISCLAIMER</h4>
+<ul>
+  <li>Informasi, materi, rekomendasi, dan data   dibuat sebaik mungkin   namun  tidak  menjamin 100% keakuratannya.</li>
+  <li>Tidak mengajak ataupun mengharuskan untuk bertrading forex, forex adalah beresiko, segala keputusan dan kerugian adalah tanggung jawab Anda sendiri.</li>
+  <li>Tidak menjamin kualitas ataupun kredibilitas atas  link ke luar(pihak ketiga) berupa iklan berbayar, banner, broker, referral, dsb.</li>
+  <li>Artikel/tulisan oleh team seputarforex, boleh dijadikan acuan/ditaruh di situs lain, namun berdasarkan etika harus mencantumkan link balik ke situs seputarforex.com<br>
+  </li>
+</ul>
+</section>
+
+
+<section id="sf_subscribe_update"></section><div id="fb-root"></div>
+<script>
+  FB=null;
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    js = d.createElement(s); js.id = id;
+    js.src = "http://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=234692533211735";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<script type="text/javascript">
+
+function move_sf_comment(){
+  if($('#container_right').css('float')=='none'){
+    $("#sf_id_komentar_manual_2015").appendTo("#container_right");
+    $("#comment_facebook").appendTo("#container_right");
+  }}
+
+$(document).ready(function(){
+
+//----- adjust flash size --------------
+$(".sf_flash_fit_300").fitVids();
+$(".sf_flash_fit_728").fitVids();   
+
+//----- load right promo ----------------
+setTimeout($('#sf_202_kanan_isi').load('/aazframe/rev_2015/sf_right_isi.php?'+ location.pathname + location.search), 6000);
+
+//----- load bottom menu ----------------
+setTimeout($('#sf_bottom_menu_container').load('/aazframe/rev_2015/sf_bottom_menu_isi.php?p=aaasahamaaakompas_100aaaindex.php'), 8000);  
+
+//----- move comment -------------------
+setTimeout(move_sf_comment(), 9000);
+
+//------ popup ----------------------------
+ setTimeout( $('#sf_subscribe_update').load('/aazframe/rev_2015/popup/main.php'),40000 );  
+//-------------------------------------------    
+  
+  
+
+});
+</script>
+<script type="text/javascript" >
+function sf_track_link_artikel(x,y){
+var x;
+var y;
+var request = 'http://www.seputarforex.com/aazframe/statistik/artracklink.php?x=' + x + '&y=' + y;
+$.post(request);
+/*
+var shost = window.location.hostname;
+var request = 'http://' + shost + '/aazframe/statistik/artracklink.php?x=' + x + '&y=' + y;
+$.post(request, function(data, e){ if(href.includes("seputarforex.com")){ window.open(href,'_self'); }else{window.open(href,'_blank')}});
+return false;
+*/
+}
+</script>
+
+
+<script type="text/javascript" >
+function sf_tracklink(x,y,z){
+var x; 
+var y; 
+var z;
+var request = 'http://www.seputarforex.com/aazframe/statistik/tracklink.php?x=' + x + '&y=' + y;
+$.post(request,function( data ) { window.location.href = z;});
+return false;
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69974666-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div id="sf_id_show_stat">
+
+
+<!-- Histats.com  (div with counter) --><div id="histats_counter" ></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.startgif', '1,761015,4,10047,"div#histatsC {position: absolute;top:0px;left:0px;}body>div#histatsC {position: fixed;}"']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('http://s10.histats.com/js15_gif_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="http://www.histats.com" alt="free hit counter" target="_blank" ><div id="histatsC"><img border="0" src="http://s4is.histats.com/stats/i/761015.gif?761015&103"></div></a>
+</noscript>
+<!-- Histats.com  END  -->
+
+
+
+<div style="clear:both; "></div>
+</div>
+
+</footer>
+</ body>
+</html>
+
+
