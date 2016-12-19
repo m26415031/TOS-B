@@ -1,0 +1,18 @@
+python csect.py
+python cemt.py
+python cdet.py
+
+#bash withquotes.sh
+#bash withquotesector.sh
+#bash noquotes.sh
+#bash noquotesector.sh
+bash createcsv.sh
+
+#python csvtojson.py -i data.csv -o data.json -f dump
+#python csvtojson.py -i emitents.csv -o emitents.json -f dump
+#python csvtojson.py -i sectors.csv -o sectors.json -f dump
+
+cp data.csv templates/data.csv
+cp persensektor.csv templates/persensektor.csv
+
+sed '1 i\ID,SEKTOR,PERUBAHAN,TANGGAL\' data.csv > graph.csv

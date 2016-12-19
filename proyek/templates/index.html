@@ -1,65 +1,208 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>what even is this man</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Seputar Saham : Home</title>
 
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Slick slider css -->
+    <link href="css/skdslider.css" rel="stylesheet">
+    <!-- Font awesome css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- smooth animate css file -->
+    <link rel="stylesheet" href="css/animate.css"> 
+    <!-- Main style css -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>     
    
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    
 
-    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<script src="https://www.google.com/jsapi"></script>
+   <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+   <script>
+      // load the visualization library from Google and set a listener
+      google.load("visualization", "1", {packages:["corechart"]});
+     google.setOnLoadCallback(drawEmitentsChart);
+     
+      function drawEmitentsChart() 
+	  {
+         // grab the CSV
+         $.get("data.csv", function(csvString) 
+		 {
+            // transform the CSV string into a 2-dimensional array
+            var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
 
-   
+           // use arrayData to load the select elements with the appropriate options
+            for (var i = 1; i < 90; i++) 
+			{
+               // this adds the given option to both select elements
+			   $("select").append("<option value='" + i + "'>" + arrayData[i][1] + "</option");
+            }
+            // set the default selection
+            $("#ems option[value='1']").attr("selected","selected");
+
+            // this new DataTable object holds all the data
+            var data = new google.visualization.arrayToDataTable(arrayData);
+
+            // this view can select a subset of the data at a time
+            var view = new google.visualization.DataView(data);
+            view.setColumns([1,2]);
+
+            var options = 
+			{
+               title: "Persentase Fluktuasi Harga Saham Harian",
+	       curveType: 'function',
+               legend: {position: 'bottom'},
+            };
+
+            var chart = new google.visualization.LineChart(document.getElementById('emitentschart'));
+            chart.draw(view, options);
+/*
+            // set listener for the update button
+            $("select").change(function()
+			{
+               // determine selected domain and range
+               var domain = +$("#domain option:selected").val();
+               var range = +$("#range option[value='2']").val();
+
+               // update the view
+               view.setColumns([domain,range]); 
+
+               // update the chart
+               chart.draw(view, options);
+            }); */
+         });
+      }
+   </script>
   </head>
 
   <body>
+  <!-- BEGAIN PRELOADER -->
+  <div id="preloader">
+    <div id="status">&nbsp;</div>
+  </div>
+  <!-- END PRELOADER -->
 
+  <!-- START HEADER SECTION -->
+  <header id="headerArea">
+    <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="slider_area">           
+          <div class="menuarea"> 
+            <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+              <div class="container">
+                <div class="navbar-header">
+                 
+                  <!-- For Text Logo -->
+                 <a class="navbar-brand logo" href="#"><span>Seputar</span>Saham</a>
+                 <!-- For Img Logo -->
+                  <!--  <a class="navbar-brand logo" href="#"><img src="img/logo.png" alt="logo"></a> -->
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav navbar-right custom_nav mobnav" id="top-menu">
+				  <ul id="nav">
+				 
+                    <li class="active"><a href="#Periode">Persentase Harian</a>
+					</li>
+                    <li><a href="#">Persentase Untung Harian</a></li>
+                    <li><a href="#">Persentase Rugi Harian</a></li>
+                  
+					</ul>
+					 
+					<div class="clear"></div>
+					
+                </div><!--/.nav-collapse -->
+				 
+				
+              </div>
+			 
+            </div>
+			
+          </div>
+		  
+				
+              <img src="img/slider/dark_wood.png" />
+			  
+			  
+              <!--Slider Description example-->
+            
+              
+    </div>      
+  </header>
+  <!-- END HEADER SECTION -->
+
+  <!-- START FEATURES SECTION -->
+  
+  <section id="Periode">
+  <body>
     <div class="container">
-      <div class="header">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="/main">Home</a></li>
-            <li role="presentation"><a href="/signin">Sign In</a></li>
- 	    <li role="presentation"><a href="/signup">Sign Up</a></li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">what</h3>
-      </div>
+      <div class="row">
+       <div class="charts" id="emitentschart">
+	</div>
+<!--   <select id="range">
+   </select>
+   <select id="domain">
+   </select> -->
 
-      <div class="jumbotron">
-        <h1>aaaaaa </h1>
-        <p class="lead"></p>
-        <p><a class="btn btn-lg btn-success" href="signup" role="button">Sign up now and join our confusion</a></p>
-      </div>
-
-      <div class="row marketing">
-        <div class="col-lg-6">
-          <h4>aaaaaa</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>aaaaaa</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>aaaaaa</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
-
-        <div class="col-lg-6">
-          <h4>aaaaaaa</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>aaaaaaaaa</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>aaaaaaaaaaaa</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
-      </div>
-
-      <footer class="footer">
-        <p>&copy; what even is this</p>
-      </footer>
-
+   
+   <div class="alert">
+   <form action='/setalert' method='post'>
+<h3>Dapatkan e-mail setiap harga saham pilihan anda mencapai persentase perubahan tertentu!</h3>
+    <label for="ems">Pilih emiten:</label>
+	<select id="ems" id="ems" name="alertems"/>
+    </select>
+    <div>
+        <label for="name">Persentase:</label>
+        <input type="text" id="name" name="alertval" />
     </div>
+	<div>
+		<label for="mail">E-mail:</label>
+		<input type="email" id="mail" name="alertmail" />
+	</div>
+	<div class="button">
+        <button type="submit">Submit</button>
+    </div>
+   </form>
+   </div>
+      </div>
+    </div> 
+</body>	
+</section>
+	 
+	 <!-- START FEATURES SECTION -->
+ 
+  <!-- END FOOTER SECTION -->
+
+  <!-- JQuery Files -->
+
+  <!-- Initialize jQuery Library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- Google map -->
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <script src="js/jquery.ui.map.js"></script>  
+  <!-- Skds slider -->
+  <script src="js/skdslider.min.js"></script>
+  <!-- Bootstrap js  -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- For smooth animatin  -->
+  <script src="js/wow.min.js"></script> 
+
+  <!-- Custom js -->
+  <script type="text/javascript" src="js/custom.js"></script>
+
   </body>
 </html>

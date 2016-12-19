@@ -1,0 +1,5 @@
+bash updatecsv.sh
+bash sendalert.sh
+
+cp data.csv templates/data.csv
+cp persensektor.csv templates/persensektor.csv
